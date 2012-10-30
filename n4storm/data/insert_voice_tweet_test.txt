@@ -1,0 +1,640 @@
+2012-08-15 12:34:17 - GET on [http://localhost:7474/db/data/], status code [200]
+energywen (Wen Ting)	32683797	[88193, 2653, 333]	null
+MT {}	2012-06-10 00:15:01	[energywen]	en	@monkeuchi yahoo auction japan can use foreign card to pay not?
+2012-08-15 12:34:18 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/4]
+2012-08-15 12:34:18 - PUT to [http://localhost:7474/db/data/node/4/properties/uid], status code [204]
+2012-08-15 12:34:18 - PUT to [http://localhost:7474/db/data/node/4/properties/screen_name], status code [204]
+2012-08-15 12:34:18 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/5]
+2012-08-15 12:34:18 - PUT to [http://localhost:7474/db/data/node/5/properties/mid], status code [204]
+2012-08-15 12:34:18 - PUT to [http://localhost:7474/db/data/node/5/properties/content], status code [204]
+2012-08-15 12:34:18 - POST to [http://localhost:7474/db/data/node/5/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/1]
+2012-08-15 12:34:19 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/4/traverse/node], status code [200], returned data: 
+[ ]
+Mra_Mastura (Mra)	291582617	[35317, 362, 456]	null
+RT <211491260995870721>	2012-06-10 00:15:01	[Mra_Mastura]	tl	RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...
+2012-08-15 12:34:19 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/6]
+2012-08-15 12:34:19 - PUT to [http://localhost:7474/db/data/node/6/properties/uid], status code [204]
+2012-08-15 12:34:19 - PUT to [http://localhost:7474/db/data/node/6/properties/screen_name], status code [204]
+2012-08-15 12:34:19 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/7]
+2012-08-15 12:34:19 - PUT to [http://localhost:7474/db/data/node/7/properties/mid], status code [204]
+2012-08-15 12:34:19 - PUT to [http://localhost:7474/db/data/node/7/properties/content], status code [204]
+2012-08-15 12:34:19 - POST to [http://localhost:7474/db/data/node/7/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/2]
+2012-08-15 12:34:19 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/6/traverse/node], status code [200], returned data: 
+[ ]
+ngjianrong_ (Ng jian rong)	524438475	[2801, 176, 89]	null
+OG	2012-06-10 00:15:13	[ngjianrong_]	en	Things to bring to famine camp. *impt* 1)2 portable charger 2)1 multi plug 3)1 iphone charger = godly phone
+2012-08-15 12:34:19 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/8]
+2012-08-15 12:34:19 - PUT to [http://localhost:7474/db/data/node/8/properties/uid], status code [204]
+2012-08-15 12:34:20 - PUT to [http://localhost:7474/db/data/node/8/properties/screen_name], status code [204]
+2012-08-15 12:34:20 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/9]
+2012-08-15 12:34:20 - PUT to [http://localhost:7474/db/data/node/9/properties/mid], status code [204]
+2012-08-15 12:34:20 - PUT to [http://localhost:7474/db/data/node/9/properties/content], status code [204]
+2012-08-15 12:34:20 - POST to [http://localhost:7474/db/data/node/9/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/3]
+2012-08-15 12:34:20 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/8/traverse/node], status code [200], returned data: 
+[ ]
+logozzz (Mitchell Choo)	234592534	[5009, 7, 2]	null
+OG	2012-06-10 00:15:29	[logozzz]	en	Emcee: "Buy a Dell now" I heard it as 'buy Adele now' ._.
+2012-08-15 12:34:20 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/10]
+2012-08-15 12:34:20 - PUT to [http://localhost:7474/db/data/node/10/properties/uid], status code [204]
+2012-08-15 12:34:20 - PUT to [http://localhost:7474/db/data/node/10/properties/screen_name], status code [204]
+2012-08-15 12:34:20 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/11]
+2012-08-15 12:34:20 - PUT to [http://localhost:7474/db/data/node/11/properties/mid], status code [204]
+2012-08-15 12:34:20 - PUT to [http://localhost:7474/db/data/node/11/properties/content], status code [204]
+2012-08-15 12:34:20 - POST to [http://localhost:7474/db/data/node/11/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/4]
+2012-08-15 12:34:21 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/10/traverse/node], status code [200], returned data: 
+[ ]
+Adahdouston (♥Adah_SD♥)	307175832	[5811, 446, 933]	null
+RT <211491260995870721>	2012-06-10 00:15:31	[Adahdouston]	tl	RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...
+2012-08-15 12:34:21 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/12]
+2012-08-15 12:34:21 - PUT to [http://localhost:7474/db/data/node/12/properties/uid], status code [204]
+2012-08-15 12:34:21 - PUT to [http://localhost:7474/db/data/node/12/properties/screen_name], status code [204]
+2012-08-15 12:34:21 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/13]
+2012-08-15 12:34:21 - PUT to [http://localhost:7474/db/data/node/13/properties/mid], status code [204]
+2012-08-15 12:34:21 - PUT to [http://localhost:7474/db/data/node/13/properties/content], status code [204]
+2012-08-15 12:34:21 - POST to [http://localhost:7474/db/data/node/13/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/5]
+2012-08-15 12:34:21 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/12/traverse/node], status code [200], returned data: 
+[ ]
+akeem_yuck (abdul hakEEM)	364158857	[142, 20, 73]	null
+RT <211491260995870721>	2012-06-10 00:15:32	[akeem_yuck]	tl	RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...
+2012-08-15 12:34:21 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/14]
+2012-08-15 12:34:21 - PUT to [http://localhost:7474/db/data/node/14/properties/uid], status code [204]
+2012-08-15 12:34:21 - PUT to [http://localhost:7474/db/data/node/14/properties/screen_name], status code [204]
+2012-08-15 12:34:21 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/15]
+2012-08-15 12:34:21 - PUT to [http://localhost:7474/db/data/node/15/properties/mid], status code [204]
+2012-08-15 12:34:21 - PUT to [http://localhost:7474/db/data/node/15/properties/content], status code [204]
+2012-08-15 12:34:22 - POST to [http://localhost:7474/db/data/node/15/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/6]
+2012-08-15 12:34:22 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/14/traverse/node], status code [200], returned data: 
+[ ]
+_YannaSobri (MissYanna)	333412112	[17991, 361, 214]	null
+RT <211491260995870721>	2012-06-10 00:15:38	[_YannaSobri]	tl	RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...
+2012-08-15 12:34:22 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/16]
+2012-08-15 12:34:22 - PUT to [http://localhost:7474/db/data/node/16/properties/uid], status code [204]
+2012-08-15 12:34:22 - PUT to [http://localhost:7474/db/data/node/16/properties/screen_name], status code [204]
+2012-08-15 12:34:22 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/17]
+2012-08-15 12:34:22 - PUT to [http://localhost:7474/db/data/node/17/properties/mid], status code [204]
+2012-08-15 12:34:22 - PUT to [http://localhost:7474/db/data/node/17/properties/content], status code [204]
+2012-08-15 12:34:22 - POST to [http://localhost:7474/db/data/node/17/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/7]
+2012-08-15 12:34:22 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/16/traverse/node], status code [200], returned data: 
+[ ]
+eddieoh976 (Eddie Oh エディーオー)	68626349	[990, 66, 107]	null
+OG	2012-06-10 00:15:37	[eddieoh976]	en	Rage Rules! Use my code tsz12903 OK iOS: http://t.co/KcvZjAE0 Android: https://t.co/TPiBWEdw #rageofbahamut @rageofbahamut
+2012-08-15 12:34:22 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/18]
+2012-08-15 12:34:22 - PUT to [http://localhost:7474/db/data/node/18/properties/uid], status code [204]
+2012-08-15 12:34:23 - PUT to [http://localhost:7474/db/data/node/18/properties/screen_name], status code [204]
+2012-08-15 12:34:23 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/19]
+2012-08-15 12:34:23 - PUT to [http://localhost:7474/db/data/node/19/properties/mid], status code [204]
+2012-08-15 12:34:23 - PUT to [http://localhost:7474/db/data/node/19/properties/content], status code [204]
+2012-08-15 12:34:23 - POST to [http://localhost:7474/db/data/node/19/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/8]
+2012-08-15 12:34:23 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/18/traverse/node], status code [200], returned data: 
+[ ]
+vanessajoy2000 (Vαnεssa Δgravίαdφr☔)	222726850	[837, 58, 143]	null
+OG	2012-06-10 00:15:42	[vanessajoy2000]	en	In The HP exhibition  sorting hat ceremony Staff: who will be brave to come up here *Me First to raise my hand Staff: ok She sorted me and
+2012-08-15 12:34:23 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/20]
+2012-08-15 12:34:23 - PUT to [http://localhost:7474/db/data/node/20/properties/uid], status code [204]
+2012-08-15 12:34:23 - PUT to [http://localhost:7474/db/data/node/20/properties/screen_name], status code [204]
+2012-08-15 12:34:23 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/21]
+2012-08-15 12:34:23 - PUT to [http://localhost:7474/db/data/node/21/properties/mid], status code [204]
+2012-08-15 12:34:23 - PUT to [http://localhost:7474/db/data/node/21/properties/content], status code [400]
+2012-08-15 12:34:23 - POST to [http://localhost:7474/db/data/node/21/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/9]
+2012-08-15 12:34:23 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/20/traverse/node], status code [200], returned data: 
+[ ]
+Fiorion (フィオリオン / Joshua )	230718838	[644, 45, 96]	null
+OG	2012-06-10 00:15:44	[Fiorion]	es	Use my referral code!!! wpb73424 iOS: http://t.co/nL5CkAS9 Android: https://t.co/317bsNuS #rageofbahamut @rageofbahamut
+2012-08-15 12:34:23 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/22]
+2012-08-15 12:34:23 - PUT to [http://localhost:7474/db/data/node/22/properties/uid], status code [204]
+2012-08-15 12:34:23 - PUT to [http://localhost:7474/db/data/node/22/properties/screen_name], status code [204]
+2012-08-15 12:34:23 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/23]
+2012-08-15 12:34:24 - PUT to [http://localhost:7474/db/data/node/23/properties/mid], status code [204]
+2012-08-15 12:34:24 - PUT to [http://localhost:7474/db/data/node/23/properties/content], status code [204]
+2012-08-15 12:34:24 - POST to [http://localhost:7474/db/data/node/23/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/10]
+2012-08-15 12:34:24 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/22/traverse/node], status code [200], returned data: 
+[ ]
+Glenisverynice (insipid glen )	295056805	[8124, 167, 160]	null
+OG	2012-06-10 00:15:52	[Glenisverynice]	en	Now my Samsung galaxy ace is just another i touch. :(
+2012-08-15 12:34:24 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/24]
+2012-08-15 12:34:24 - PUT to [http://localhost:7474/db/data/node/24/properties/uid], status code [204]
+2012-08-15 12:34:24 - PUT to [http://localhost:7474/db/data/node/24/properties/screen_name], status code [204]
+2012-08-15 12:34:24 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/25]
+2012-08-15 12:34:24 - PUT to [http://localhost:7474/db/data/node/25/properties/mid], status code [204]
+2012-08-15 12:34:24 - PUT to [http://localhost:7474/db/data/node/25/properties/content], status code [204]
+2012-08-15 12:34:24 - POST to [http://localhost:7474/db/data/node/25/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/11]
+2012-08-15 12:34:24 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/24/traverse/node], status code [200], returned data: 
+[ ]
+YuslessYusri (MeltingAgain ;))	326146667	[3213, 88, 80]	null
+RP ->211491585815359490	2012-06-10 00:15:47	[YuslessYusri]	en	@FiletNugget Greatest sport in the world bro..
+2012-08-15 12:34:24 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/26]
+2012-08-15 12:34:24 - PUT to [http://localhost:7474/db/data/node/26/properties/uid], status code [204]
+2012-08-15 12:34:24 - PUT to [http://localhost:7474/db/data/node/26/properties/screen_name], status code [204]
+2012-08-15 12:34:25 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/27]
+2012-08-15 12:34:25 - PUT to [http://localhost:7474/db/data/node/27/properties/mid], status code [204]
+2012-08-15 12:34:25 - PUT to [http://localhost:7474/db/data/node/27/properties/content], status code [204]
+2012-08-15 12:34:25 - POST to [http://localhost:7474/db/data/node/27/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/12]
+2012-08-15 12:34:25 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/26/traverse/node], status code [200], returned data: 
+[ ]
+Aliffalepp (John Lennon)	409365474	[13720, 178, 94]	null
+RP ->211491323780407298	2012-06-10 00:16:16	[Aliffalepp]	la	@MNaqibOsman Dm nombor hp
+2012-08-15 12:34:25 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/28]
+2012-08-15 12:34:25 - PUT to [http://localhost:7474/db/data/node/28/properties/uid], status code [204]
+2012-08-15 12:34:25 - PUT to [http://localhost:7474/db/data/node/28/properties/screen_name], status code [204]
+2012-08-15 12:34:25 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/29]
+2012-08-15 12:34:25 - PUT to [http://localhost:7474/db/data/node/29/properties/mid], status code [204]
+2012-08-15 12:34:25 - PUT to [http://localhost:7474/db/data/node/29/properties/content], status code [204]
+2012-08-15 12:34:25 - POST to [http://localhost:7474/db/data/node/29/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/13]
+2012-08-15 12:34:25 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/28/traverse/node], status code [200], returned data: 
+[ ]
+shiliyoonaddict (★shili☆)	499765867	[1134, 46, 171]	null
+RP ->211491602735177730	2012-06-10 00:16:25	[shiliyoonaddict]	en	@muileng8459 @Peifangggggg thr is nthing impossible! ..tsk! We're flooding pf's mention..
+2012-08-15 12:34:25 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/30]
+2012-08-15 12:34:25 - PUT to [http://localhost:7474/db/data/node/30/properties/uid], status code [204]
+2012-08-15 12:34:26 - PUT to [http://localhost:7474/db/data/node/30/properties/screen_name], status code [204]
+2012-08-15 12:34:26 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/31]
+2012-08-15 12:34:26 - PUT to [http://localhost:7474/db/data/node/31/properties/mid], status code [204]
+2012-08-15 12:34:26 - PUT to [http://localhost:7474/db/data/node/31/properties/content], status code [204]
+2012-08-15 12:34:26 - POST to [http://localhost:7474/db/data/node/31/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/14]
+2012-08-15 12:34:26 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/30/traverse/node], status code [200], returned data: 
+[ ]
+nisackecoh (nisa asnisah )	241621945	[2871, 184, 291]	null
+RT <211491260995870721>	2012-06-10 00:16:32	[nisackecoh]	tl	RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...
+2012-08-15 12:34:26 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/32]
+2012-08-15 12:34:26 - PUT to [http://localhost:7474/db/data/node/32/properties/uid], status code [204]
+2012-08-15 12:34:26 - PUT to [http://localhost:7474/db/data/node/32/properties/screen_name], status code [204]
+2012-08-15 12:34:26 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/33]
+2012-08-15 12:34:26 - PUT to [http://localhost:7474/db/data/node/33/properties/mid], status code [204]
+2012-08-15 12:34:26 - PUT to [http://localhost:7474/db/data/node/33/properties/content], status code [204]
+2012-08-15 12:34:26 - POST to [http://localhost:7474/db/data/node/33/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/15]
+2012-08-15 12:34:26 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/32/traverse/node], status code [200], returned data: 
+[ ]
+safiahsann (SI TEMBAM)	438088816	[4564, 252, 456]	null
+RT <211491260995870721>	2012-06-10 00:16:39	[safiahsann]	tl	RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...
+2012-08-15 12:34:27 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/34]
+2012-08-15 12:34:27 - PUT to [http://localhost:7474/db/data/node/34/properties/uid], status code [204]
+2012-08-15 12:34:27 - PUT to [http://localhost:7474/db/data/node/34/properties/screen_name], status code [204]
+2012-08-15 12:34:27 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/35]
+2012-08-15 12:34:27 - PUT to [http://localhost:7474/db/data/node/35/properties/mid], status code [204]
+2012-08-15 12:34:27 - PUT to [http://localhost:7474/db/data/node/35/properties/content], status code [204]
+2012-08-15 12:34:27 - POST to [http://localhost:7474/db/data/node/35/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/16]
+2012-08-15 12:34:27 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/34/traverse/node], status code [200], returned data: 
+[ ]
+maisarayusof (SMY Yusof ®)	398557428	[327, 102, 108]	null
+RT <211491260995870721>	2012-06-10 00:16:43	[maisarayusof]	tl	RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...
+2012-08-15 12:34:27 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/36]
+2012-08-15 12:34:27 - PUT to [http://localhost:7474/db/data/node/36/properties/uid], status code [204]
+2012-08-15 12:34:27 - PUT to [http://localhost:7474/db/data/node/36/properties/screen_name], status code [204]
+2012-08-15 12:34:27 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/37]
+2012-08-15 12:34:27 - PUT to [http://localhost:7474/db/data/node/37/properties/mid], status code [204]
+2012-08-15 12:34:27 - PUT to [http://localhost:7474/db/data/node/37/properties/content], status code [204]
+2012-08-15 12:34:27 - POST to [http://localhost:7474/db/data/node/37/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/17]
+2012-08-15 12:34:27 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/36/traverse/node], status code [200], returned data: 
+[ ]
+wanwaann (洁婉)	265450915	[11411, 303, 212]	null
+RT <211491260995870721>	2012-06-10 00:16:43	[wanwaann]	tl	RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...
+2012-08-15 12:34:27 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/38]
+2012-08-15 12:34:27 - PUT to [http://localhost:7474/db/data/node/38/properties/uid], status code [204]
+2012-08-15 12:34:27 - PUT to [http://localhost:7474/db/data/node/38/properties/screen_name], status code [204]
+2012-08-15 12:34:28 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/39]
+2012-08-15 12:34:28 - PUT to [http://localhost:7474/db/data/node/39/properties/mid], status code [204]
+2012-08-15 12:34:28 - PUT to [http://localhost:7474/db/data/node/39/properties/content], status code [204]
+2012-08-15 12:34:28 - POST to [http://localhost:7474/db/data/node/39/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/18]
+2012-08-15 12:34:28 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/38/traverse/node], status code [200], returned data: 
+[ ]
+2630DCinc (Danial Wannaloveyou)	74115473	[1334, 217, 337]	null
+OG	2012-06-10 00:16:43	[2630DCinc]	en	Heading home now before going to a coffeeshop nearby to watch the EURO12 Hollad-Germany match:))
+2012-08-15 12:34:28 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/40]
+2012-08-15 12:34:28 - PUT to [http://localhost:7474/db/data/node/40/properties/uid], status code [204]
+2012-08-15 12:34:28 - PUT to [http://localhost:7474/db/data/node/40/properties/screen_name], status code [204]
+2012-08-15 12:34:28 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/41]
+2012-08-15 12:34:28 - PUT to [http://localhost:7474/db/data/node/41/properties/mid], status code [204]
+2012-08-15 12:34:28 - PUT to [http://localhost:7474/db/data/node/41/properties/content], status code [204]
+2012-08-15 12:34:28 - POST to [http://localhost:7474/db/data/node/41/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/19]
+2012-08-15 12:34:28 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/40/traverse/node], status code [200], returned data: 
+[ ]
+IraMazli (Eyra Mazli)	83086465	[2538, 180, 219]	null
+RT <211491260995870721>	2012-06-10 00:16:44	[IraMazli]	tl	RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...
+2012-08-15 12:34:28 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/42]
+2012-08-15 12:34:28 - PUT to [http://localhost:7474/db/data/node/42/properties/uid], status code [204]
+2012-08-15 12:34:28 - PUT to [http://localhost:7474/db/data/node/42/properties/screen_name], status code [204]
+2012-08-15 12:34:29 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/43]
+2012-08-15 12:34:29 - PUT to [http://localhost:7474/db/data/node/43/properties/mid], status code [204]
+2012-08-15 12:34:29 - PUT to [http://localhost:7474/db/data/node/43/properties/content], status code [204]
+2012-08-15 12:34:29 - POST to [http://localhost:7474/db/data/node/43/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/20]
+2012-08-15 12:34:29 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/42/traverse/node], status code [200], returned data: 
+[ ]
+manfredpan (Manfred Pan)	108541594	[1263, 78, 119]	null
+OG	2012-06-10 00:16:48	[manfredpan]	af	Apologies i meant #starhub in my previous post. Been drawing natural word links between singtel n screw-ups in recent times
+2012-08-15 12:34:29 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/44]
+2012-08-15 12:34:29 - PUT to [http://localhost:7474/db/data/node/44/properties/uid], status code [204]
+2012-08-15 12:34:29 - PUT to [http://localhost:7474/db/data/node/44/properties/screen_name], status code [204]
+2012-08-15 12:34:29 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/45]
+2012-08-15 12:34:29 - PUT to [http://localhost:7474/db/data/node/45/properties/mid], status code [204]
+2012-08-15 12:34:30 - PUT to [http://localhost:7474/db/data/node/45/properties/content], status code [204]
+2012-08-15 12:34:30 - POST to [http://localhost:7474/db/data/node/45/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/21]
+2012-08-15 12:34:30 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/44/traverse/node], status code [200], returned data: 
+[ ]
+AdrianLee (AdrianLee)	8628952	[2013, 1515, 1920]	null
+OG	2012-06-10 00:16:47	[AdrianLee]	en	3D Crystal iPhone Case for AT&amp;T Verizon Sprint Apple iPhone 4/4S Crystal Black Bow http://t.co/MiqZrK0o
+2012-08-15 12:34:30 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/46]
+2012-08-15 12:34:30 - PUT to [http://localhost:7474/db/data/node/46/properties/uid], status code [204]
+2012-08-15 12:34:30 - PUT to [http://localhost:7474/db/data/node/46/properties/screen_name], status code [204]
+2012-08-15 12:34:30 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/47]
+2012-08-15 12:34:30 - PUT to [http://localhost:7474/db/data/node/47/properties/mid], status code [204]
+2012-08-15 12:34:30 - PUT to [http://localhost:7474/db/data/node/47/properties/content], status code [204]
+2012-08-15 12:34:30 - POST to [http://localhost:7474/db/data/node/47/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/22]
+2012-08-15 12:34:30 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/46/traverse/node], status code [200], returned data: 
+[ ]
+Lipstickdesire_ (☮ Ashley chau †)	234676172	[11411, 174, 83]	null
+RP ->211491943287496706	2012-06-10 00:16:51	[Lipstickdesire_]	tl	@AHNEHH HAHHAHAH err nokia lumia 800
+2012-08-15 12:34:30 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/48]
+2012-08-15 12:34:30 - PUT to [http://localhost:7474/db/data/node/48/properties/uid], status code [204]
+2012-08-15 12:34:30 - PUT to [http://localhost:7474/db/data/node/48/properties/screen_name], status code [204]
+2012-08-15 12:34:30 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/49]
+2012-08-15 12:34:30 - PUT to [http://localhost:7474/db/data/node/49/properties/mid], status code [204]
+2012-08-15 12:34:30 - PUT to [http://localhost:7474/db/data/node/49/properties/content], status code [204]
+2012-08-15 12:34:30 - POST to [http://localhost:7474/db/data/node/49/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/23]
+2012-08-15 12:34:30 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/48/traverse/node], status code [200], returned data: 
+[ ]
+Vintagerosesz (Zaylee's)	424102646	[6398, 267, 910]	null
+OG	2012-06-10 00:16:54	[Vintagerosesz]	en	Oh my! I lost my samsung charger
+2012-08-15 12:34:30 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/50]
+2012-08-15 12:34:30 - PUT to [http://localhost:7474/db/data/node/50/properties/uid], status code [204]
+2012-08-15 12:34:31 - PUT to [http://localhost:7474/db/data/node/50/properties/screen_name], status code [204]
+2012-08-15 12:34:31 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/51]
+2012-08-15 12:34:31 - PUT to [http://localhost:7474/db/data/node/51/properties/mid], status code [204]
+2012-08-15 12:34:31 - PUT to [http://localhost:7474/db/data/node/51/properties/content], status code [204]
+2012-08-15 12:34:31 - POST to [http://localhost:7474/db/data/node/51/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/24]
+2012-08-15 12:34:31 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/50/traverse/node], status code [200], returned data: 
+[ ]
+AhMooose (Amos Choy Xian Hao)	308382115	[3645, 168, 134]	null
+RP ->211491811972235264	2012-06-10 00:17:10	[AhMooose]	pt	@Cw_Gone miotv have euros?
+2012-08-15 12:34:31 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/52]
+2012-08-15 12:34:31 - PUT to [http://localhost:7474/db/data/node/52/properties/uid], status code [204]
+2012-08-15 12:34:31 - PUT to [http://localhost:7474/db/data/node/52/properties/screen_name], status code [204]
+2012-08-15 12:34:31 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/53]
+2012-08-15 12:34:31 - PUT to [http://localhost:7474/db/data/node/53/properties/mid], status code [204]
+2012-08-15 12:34:31 - PUT to [http://localhost:7474/db/data/node/53/properties/content], status code [204]
+2012-08-15 12:34:31 - POST to [http://localhost:7474/db/data/node/53/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/25]
+2012-08-15 12:34:31 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/52/traverse/node], status code [200], returned data: 
+[ ]
+schafiera (♛Ordinary girl ♛)	410753911	[5604, 239, 257]	null
+RT <211491260995870721>	2012-06-10 00:17:16	[schafiera]	tl	RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...
+2012-08-15 12:34:31 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/54]
+2012-08-15 12:34:31 - PUT to [http://localhost:7474/db/data/node/54/properties/uid], status code [204]
+2012-08-15 12:34:31 - PUT to [http://localhost:7474/db/data/node/54/properties/screen_name], status code [204]
+2012-08-15 12:34:31 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/55]
+2012-08-15 12:34:31 - PUT to [http://localhost:7474/db/data/node/55/properties/mid], status code [204]
+2012-08-15 12:34:31 - PUT to [http://localhost:7474/db/data/node/55/properties/content], status code [204]
+2012-08-15 12:34:32 - POST to [http://localhost:7474/db/data/node/55/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/26]
+2012-08-15 12:34:32 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/54/traverse/node], status code [200], returned data: 
+[ ]
+WieShim (Insyirah Hashim)	421196043	[8713, 93, 307]	null
+RT <211491260995870721>	2012-06-10 00:17:17	[WieShim]	tl	RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...
+2012-08-15 12:34:32 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/56]
+2012-08-15 12:34:32 - PUT to [http://localhost:7474/db/data/node/56/properties/uid], status code [204]
+2012-08-15 12:34:32 - PUT to [http://localhost:7474/db/data/node/56/properties/screen_name], status code [204]
+2012-08-15 12:34:32 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/57]
+2012-08-15 12:34:32 - PUT to [http://localhost:7474/db/data/node/57/properties/mid], status code [204]
+2012-08-15 12:34:32 - PUT to [http://localhost:7474/db/data/node/57/properties/content], status code [204]
+2012-08-15 12:34:32 - POST to [http://localhost:7474/db/data/node/57/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/27]
+2012-08-15 12:34:32 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/56/traverse/node], status code [200], returned data: 
+[ ]
+JeonJL (WinterDesire_)	250128879	[10323, 130, 98]	null
+RP ->211487966172946432	2012-06-10 00:17:19	[JeonJL]	en	@BulBulPOP yeap. Wa Lu. The coffeeshop at my house the mall there never show ..
+2012-08-15 12:34:32 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/58]
+2012-08-15 12:34:32 - PUT to [http://localhost:7474/db/data/node/58/properties/uid], status code [204]
+2012-08-15 12:34:32 - PUT to [http://localhost:7474/db/data/node/58/properties/screen_name], status code [204]
+2012-08-15 12:34:32 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/59]
+2012-08-15 12:34:32 - PUT to [http://localhost:7474/db/data/node/59/properties/mid], status code [204]
+2012-08-15 12:34:32 - PUT to [http://localhost:7474/db/data/node/59/properties/content], status code [204]
+2012-08-15 12:34:32 - POST to [http://localhost:7474/db/data/node/59/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/28]
+2012-08-15 12:34:32 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/58/traverse/node], status code [200], returned data: 
+[ ]
+meeraJaafar (Nur Δmira)	189988578	[4783, 245, 134]	null
+RT <211491260995870721>	2012-06-10 00:17:32	[meeraJaafar]	tl	RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...
+2012-08-15 12:34:32 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/60]
+2012-08-15 12:34:33 - PUT to [http://localhost:7474/db/data/node/60/properties/uid], status code [204]
+2012-08-15 12:34:33 - PUT to [http://localhost:7474/db/data/node/60/properties/screen_name], status code [204]
+2012-08-15 12:34:33 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/61]
+2012-08-15 12:34:33 - PUT to [http://localhost:7474/db/data/node/61/properties/mid], status code [204]
+2012-08-15 12:34:33 - PUT to [http://localhost:7474/db/data/node/61/properties/content], status code [204]
+2012-08-15 12:34:33 - POST to [http://localhost:7474/db/data/node/61/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/29]
+2012-08-15 12:34:33 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/60/traverse/node], status code [200], returned data: 
+[ ]
+illpills (Hider)	287653545	[14535, 193, 200]	null
+OG	2012-06-10 00:17:43	[illpills]	en	RT @DiyanahMNoor RT @Alifology: Those of you who don't like football tweets, too bad ah. We're gonna flood about Euro the whole month.
+2012-08-15 12:34:33 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/62]
+2012-08-15 12:34:33 - PUT to [http://localhost:7474/db/data/node/62/properties/uid], status code [204]
+2012-08-15 12:34:33 - PUT to [http://localhost:7474/db/data/node/62/properties/screen_name], status code [204]
+2012-08-15 12:34:33 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/63]
+2012-08-15 12:34:33 - PUT to [http://localhost:7474/db/data/node/63/properties/mid], status code [204]
+2012-08-15 12:34:33 - PUT to [http://localhost:7474/db/data/node/63/properties/content], status code [204]
+2012-08-15 12:34:33 - POST to [http://localhost:7474/db/data/node/63/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/30]
+2012-08-15 12:34:33 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/62/traverse/node], status code [200], returned data: 
+[ ]
+JingQuanSoh (Jing Quan Soh)	346487581	[12441, 98, 90]	null
+OG	2012-06-10 00:18:05	[JingQuanSoh]	tl	Samsung Galaxy S3 (Y)
+2012-08-15 12:34:33 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/64]
+2012-08-15 12:34:33 - PUT to [http://localhost:7474/db/data/node/64/properties/uid], status code [204]
+2012-08-15 12:34:33 - PUT to [http://localhost:7474/db/data/node/64/properties/screen_name], status code [204]
+2012-08-15 12:34:33 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/65]
+2012-08-15 12:34:34 - PUT to [http://localhost:7474/db/data/node/65/properties/mid], status code [204]
+2012-08-15 12:34:34 - PUT to [http://localhost:7474/db/data/node/65/properties/content], status code [204]
+2012-08-15 12:34:34 - POST to [http://localhost:7474/db/data/node/65/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/31]
+2012-08-15 12:34:34 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/64/traverse/node], status code [200], returned data: 
+[ ]
+twistedmeanings (Esther Lam)	348484380	[1916, 31, 82]	null
+OG	2012-06-10 00:18:07	[twistedmeanings]	en	HP exhibition is good for a HP fan :D
+2012-08-15 12:34:34 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/66]
+2012-08-15 12:34:34 - PUT to [http://localhost:7474/db/data/node/66/properties/uid], status code [204]
+2012-08-15 12:34:34 - PUT to [http://localhost:7474/db/data/node/66/properties/screen_name], status code [204]
+2012-08-15 12:34:34 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/67]
+2012-08-15 12:34:34 - PUT to [http://localhost:7474/db/data/node/67/properties/mid], status code [204]
+2012-08-15 12:34:34 - PUT to [http://localhost:7474/db/data/node/67/properties/content], status code [204]
+2012-08-15 12:34:34 - POST to [http://localhost:7474/db/data/node/67/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/32]
+2012-08-15 12:34:34 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/66/traverse/node], status code [200], returned data: 
+[ ]
+fhanaAG (HANALCi♥uS)	311370669	[3334, 165, 151]	null
+RT <211491260995870721>	2012-06-10 00:18:11	[fhanaAG]	tl	RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...
+2012-08-15 12:34:34 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/68]
+2012-08-15 12:34:34 - PUT to [http://localhost:7474/db/data/node/68/properties/uid], status code [204]
+2012-08-15 12:34:34 - PUT to [http://localhost:7474/db/data/node/68/properties/screen_name], status code [204]
+2012-08-15 12:34:34 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/69]
+2012-08-15 12:34:34 - PUT to [http://localhost:7474/db/data/node/69/properties/mid], status code [204]
+2012-08-15 12:34:34 - PUT to [http://localhost:7474/db/data/node/69/properties/content], status code [204]
+2012-08-15 12:34:34 - POST to [http://localhost:7474/db/data/node/69/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/33]
+2012-08-15 12:34:34 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/68/traverse/node], status code [200], returned data: 
+[ ]
+riddle__me (Delwyn)	16820391	[13108, 170, 480]	null
+RP ->211491213184999424	2012-06-10 00:18:18	[riddle__me]	en	@jleo96 TIU I WANT MY WINDOWS PHONE REPAIRED
+2012-08-15 12:34:35 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/70]
+2012-08-15 12:34:35 - PUT to [http://localhost:7474/db/data/node/70/properties/uid], status code [204]
+2012-08-15 12:34:35 - PUT to [http://localhost:7474/db/data/node/70/properties/screen_name], status code [204]
+2012-08-15 12:34:35 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/71]
+2012-08-15 12:34:35 - PUT to [http://localhost:7474/db/data/node/71/properties/mid], status code [204]
+2012-08-15 12:34:35 - PUT to [http://localhost:7474/db/data/node/71/properties/content], status code [204]
+2012-08-15 12:34:35 - POST to [http://localhost:7474/db/data/node/71/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/34]
+2012-08-15 12:34:35 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/70/traverse/node], status code [200], returned data: 
+[ ]
+syaaains (syaaAin♥)	369409991	[2509, 315, 285]	null
+RT <211491260995870721>	2012-06-10 00:18:14	[syaaains]	tl	RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...
+2012-08-15 12:34:35 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/72]
+2012-08-15 12:34:35 - PUT to [http://localhost:7474/db/data/node/72/properties/uid], status code [204]
+2012-08-15 12:34:35 - PUT to [http://localhost:7474/db/data/node/72/properties/screen_name], status code [204]
+2012-08-15 12:34:35 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/73]
+2012-08-15 12:34:35 - PUT to [http://localhost:7474/db/data/node/73/properties/mid], status code [204]
+2012-08-15 12:34:35 - PUT to [http://localhost:7474/db/data/node/73/properties/content], status code [204]
+2012-08-15 12:34:35 - POST to [http://localhost:7474/db/data/node/73/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/35]
+2012-08-15 12:34:35 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/72/traverse/node], status code [200], returned data: 
+[ ]
+L0v3Dr0ps (Yu Yan)	108012334	[6383, 102, 92]	null
+RP ->211484720180109312	2012-06-10 00:18:31	[L0v3Dr0ps]	en	@StalkersINC Hmm, anyway, not looking forward to an iPhone. :P
+2012-08-15 12:34:35 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/74]
+2012-08-15 12:34:35 - PUT to [http://localhost:7474/db/data/node/74/properties/uid], status code [204]
+2012-08-15 12:34:36 - PUT to [http://localhost:7474/db/data/node/74/properties/screen_name], status code [204]
+2012-08-15 12:34:36 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/75]
+2012-08-15 12:34:36 - PUT to [http://localhost:7474/db/data/node/75/properties/mid], status code [204]
+2012-08-15 12:34:36 - PUT to [http://localhost:7474/db/data/node/75/properties/content], status code [204]
+2012-08-15 12:34:36 - POST to [http://localhost:7474/db/data/node/75/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/36]
+2012-08-15 12:34:36 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/74/traverse/node], status code [200], returned data: 
+[ ]
+15ax2 (Make Money)	280401532	[19463, 5079, 2997]	null
+OG	2012-06-10 00:18:30	[15ax2]	en	Hollande: 4 French Soldiers, Interpreter Killed In Afghanistan: French President Francois Hollande mourned the d... http://t.co/HMFPsZrz
+2012-08-15 12:34:36 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/76]
+2012-08-15 12:34:36 - PUT to [http://localhost:7474/db/data/node/76/properties/uid], status code [204]
+2012-08-15 12:34:36 - PUT to [http://localhost:7474/db/data/node/76/properties/screen_name], status code [204]
+2012-08-15 12:34:36 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/77]
+2012-08-15 12:34:36 - PUT to [http://localhost:7474/db/data/node/77/properties/mid], status code [204]
+2012-08-15 12:34:36 - PUT to [http://localhost:7474/db/data/node/77/properties/content], status code [204]
+2012-08-15 12:34:36 - POST to [http://localhost:7474/db/data/node/77/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/37]
+2012-08-15 12:34:36 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/76/traverse/node], status code [200], returned data: 
+[ ]
+shiokers6 (Shiokers)	279389259	[9042, 6003, 2307]	null
+OG	2012-06-10 00:18:29	[shiokers6]	en	Hollande: 4 French Soldiers, Interpreter Killed In Afghanistan: French President Francois Hollande mourned the d... http://t.co/45b8Mzpk
+2012-08-15 12:34:37 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/78]
+2012-08-15 12:34:37 - PUT to [http://localhost:7474/db/data/node/78/properties/uid], status code [204]
+2012-08-15 12:34:37 - PUT to [http://localhost:7474/db/data/node/78/properties/screen_name], status code [204]
+2012-08-15 12:34:37 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/79]
+2012-08-15 12:34:37 - PUT to [http://localhost:7474/db/data/node/79/properties/mid], status code [204]
+2012-08-15 12:34:37 - PUT to [http://localhost:7474/db/data/node/79/properties/content], status code [204]
+2012-08-15 12:34:37 - POST to [http://localhost:7474/db/data/node/79/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/38]
+2012-08-15 12:34:37 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/78/traverse/node], status code [200], returned data: 
+[ ]
+SyahinFurqan (Şyαhɪ̣̇n HΔHΔ)	340318449	[232, 173, 318]	null
+RT <211491260995870721>	2012-06-10 00:18:36	[SyahinFurqan]	tl	RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...
+2012-08-15 12:34:37 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/80]
+2012-08-15 12:34:37 - PUT to [http://localhost:7474/db/data/node/80/properties/uid], status code [204]
+2012-08-15 12:34:37 - PUT to [http://localhost:7474/db/data/node/80/properties/screen_name], status code [204]
+2012-08-15 12:34:37 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/81]
+2012-08-15 12:34:37 - PUT to [http://localhost:7474/db/data/node/81/properties/mid], status code [204]
+2012-08-15 12:34:37 - PUT to [http://localhost:7474/db/data/node/81/properties/content], status code [204]
+2012-08-15 12:34:37 - POST to [http://localhost:7474/db/data/node/81/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/39]
+2012-08-15 12:34:37 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/80/traverse/node], status code [200], returned data: 
+[ ]
+mirza0529 (Muhd Mirza 밀자)	255534449	[44521, 173, 305]	null
+OG	2012-06-10 00:18:38	[mirza0529]	da	Samsung S 3... -okay-  designed for human -ooookayyy-
+2012-08-15 12:34:37 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/82]
+2012-08-15 12:34:37 - PUT to [http://localhost:7474/db/data/node/82/properties/uid], status code [204]
+2012-08-15 12:34:37 - PUT to [http://localhost:7474/db/data/node/82/properties/screen_name], status code [204]
+2012-08-15 12:34:38 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/83]
+2012-08-15 12:34:38 - PUT to [http://localhost:7474/db/data/node/83/properties/mid], status code [204]
+2012-08-15 12:34:38 - PUT to [http://localhost:7474/db/data/node/83/properties/content], status code [400]
+2012-08-15 12:34:38 - POST to [http://localhost:7474/db/data/node/83/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/40]
+2012-08-15 12:34:38 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/82/traverse/node], status code [200], returned data: 
+[ ]
+CJ_Wei (Chiu Jie Wei)	199214244	[38, 15, 46]	null
+OG	2012-06-10 00:18:39	[CJ_Wei]	en	Can you beat my deck? Start playing R.O.B. iOS: http://t.co/gqO4nUqp Android: https://t.co/lH9qCcpL #rageofbahamut @rageofbahamut
+2012-08-15 12:34:38 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/84]
+2012-08-15 12:34:38 - PUT to [http://localhost:7474/db/data/node/84/properties/uid], status code [204]
+2012-08-15 12:34:38 - PUT to [http://localhost:7474/db/data/node/84/properties/screen_name], status code [204]
+2012-08-15 12:34:38 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/85]
+2012-08-15 12:34:38 - PUT to [http://localhost:7474/db/data/node/85/properties/mid], status code [204]
+2012-08-15 12:34:38 - PUT to [http://localhost:7474/db/data/node/85/properties/content], status code [204]
+2012-08-15 12:34:38 - POST to [http://localhost:7474/db/data/node/85/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/41]
+2012-08-15 12:34:38 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/84/traverse/node], status code [200], returned data: 
+[ ]
+tanehak (Lim Boon Hou)	435346793	[174, 19, 81]	null
+RP ->211492171478605825	2012-06-10 00:18:52	[tanehak]	en	@ConolophusVanes @tszemin why Aztech??? Kinect needs you... Please send my regards to my booth. Microsoft Kinect booth. :-)
+2012-08-15 12:34:38 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/86]
+2012-08-15 12:34:38 - PUT to [http://localhost:7474/db/data/node/86/properties/uid], status code [204]
+2012-08-15 12:34:38 - PUT to [http://localhost:7474/db/data/node/86/properties/screen_name], status code [204]
+2012-08-15 12:34:38 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/87]
+2012-08-15 12:34:38 - PUT to [http://localhost:7474/db/data/node/87/properties/mid], status code [204]
+2012-08-15 12:34:38 - PUT to [http://localhost:7474/db/data/node/87/properties/content], status code [204]
+2012-08-15 12:34:39 - POST to [http://localhost:7474/db/data/node/87/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/42]
+2012-08-15 12:34:39 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/86/traverse/node], status code [200], returned data: 
+[ ]
+JuniiFatiin (FATIIN ♥)	525206732	[3376, 198, 347]	null
+OG	2012-06-10 00:18:53	[JuniiFatiin]	tl	Wanna grab Samsung galaxy S3
+2012-08-15 12:34:39 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/88]
+2012-08-15 12:34:39 - PUT to [http://localhost:7474/db/data/node/88/properties/uid], status code [204]
+2012-08-15 12:34:39 - PUT to [http://localhost:7474/db/data/node/88/properties/screen_name], status code [204]
+2012-08-15 12:34:39 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/89]
+2012-08-15 12:34:39 - PUT to [http://localhost:7474/db/data/node/89/properties/mid], status code [204]
+2012-08-15 12:34:39 - PUT to [http://localhost:7474/db/data/node/89/properties/content], status code [204]
+2012-08-15 12:34:39 - POST to [http://localhost:7474/db/data/node/89/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/43]
+2012-08-15 12:34:39 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/88/traverse/node], status code [200], returned data: 
+[ ]
+nurulkaboomz_ (NURULMARDINI ღ)	162573546	[13908, 226, 199]	null
+OG	2012-06-10 00:18:56	[nurulkaboomz_]	en	"Samsung Galaxy SIII. Designed for humans." you don't say.
+2012-08-15 12:34:39 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/90]
+2012-08-15 12:34:39 - PUT to [http://localhost:7474/db/data/node/90/properties/uid], status code [204]
+2012-08-15 12:34:39 - PUT to [http://localhost:7474/db/data/node/90/properties/screen_name], status code [204]
+2012-08-15 12:34:39 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/91]
+2012-08-15 12:34:39 - PUT to [http://localhost:7474/db/data/node/91/properties/mid], status code [204]
+2012-08-15 12:34:39 - PUT to [http://localhost:7474/db/data/node/91/properties/content], status code [204]
+2012-08-15 12:34:39 - POST to [http://localhost:7474/db/data/node/91/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/44]
+2012-08-15 12:34:39 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/90/traverse/node], status code [200], returned data: 
+[ ]
+wildanwardhany (Wildan Wardhany)	319625990	[15589, 184, 127]	null
+OG	2012-06-10 00:18:53	[wildanwardhany]	en	:D RT @amelia_shan: Pilih blackberry atau strowberry ?? RT @wildanwardhany: @amelia_shan @hels_healey when ???? Harga kado dprhtungkan y :D
+2012-08-15 12:34:39 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/92]
+2012-08-15 12:34:39 - PUT to [http://localhost:7474/db/data/node/92/properties/uid], status code [204]
+2012-08-15 12:34:40 - PUT to [http://localhost:7474/db/data/node/92/properties/screen_name], status code [204]
+2012-08-15 12:34:40 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/93]
+2012-08-15 12:34:40 - PUT to [http://localhost:7474/db/data/node/93/properties/mid], status code [204]
+2012-08-15 12:34:40 - PUT to [http://localhost:7474/db/data/node/93/properties/content], status code [204]
+2012-08-15 12:34:40 - POST to [http://localhost:7474/db/data/node/93/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/45]
+2012-08-15 12:34:40 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/92/traverse/node], status code [200], returned data: 
+[ ]
+Hafiz_RedFang (Muhammad Hafiz Hilmi)	416431677	[8238, 90, 102]	null
+OG	2012-06-10 00:19:06	[Hafiz_RedFang]	en	16 games in my hp. Not even 1 I find entertaining.
+2012-08-15 12:34:40 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/94]
+2012-08-15 12:34:40 - PUT to [http://localhost:7474/db/data/node/94/properties/uid], status code [204]
+2012-08-15 12:34:40 - PUT to [http://localhost:7474/db/data/node/94/properties/screen_name], status code [204]
+2012-08-15 12:34:40 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/95]
+2012-08-15 12:34:40 - PUT to [http://localhost:7474/db/data/node/95/properties/mid], status code [204]
+2012-08-15 12:34:40 - PUT to [http://localhost:7474/db/data/node/95/properties/content], status code [204]
+2012-08-15 12:34:40 - POST to [http://localhost:7474/db/data/node/95/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/46]
+2012-08-15 12:34:40 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/94/traverse/node], status code [200], returned data: 
+[ ]
+TruthMasquerade (Azreel▲)	235575013	[4550, 123, 124]	null
+OG	2012-06-10 00:19:18	[TruthMasquerade]	en	I need my phone back.. HTC, please fix it faster! :(
+2012-08-15 12:34:40 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/96]
+2012-08-15 12:34:40 - PUT to [http://localhost:7474/db/data/node/96/properties/uid], status code [204]
+2012-08-15 12:34:40 - PUT to [http://localhost:7474/db/data/node/96/properties/screen_name], status code [204]
+2012-08-15 12:34:40 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/97]
+2012-08-15 12:34:40 - PUT to [http://localhost:7474/db/data/node/97/properties/mid], status code [204]
+2012-08-15 12:34:41 - PUT to [http://localhost:7474/db/data/node/97/properties/content], status code [204]
+2012-08-15 12:34:41 - POST to [http://localhost:7474/db/data/node/97/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/47]
+2012-08-15 12:34:41 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/96/traverse/node], status code [200], returned data: 
+[ ]
+FaeDarkFairy (FTDarkFairy)	476741416	[4225, 98, 331]	null
+OG	2012-06-10 00:19:17	[FaeDarkFairy]	en	@SkuLlaeEy: &gt;\\\&lt; RT @imdadaz19: 120609 Hongki FT island Back to korea at Suvarnabhumi airport http://t.co/QVAuAq3a”
+2012-08-15 12:34:41 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/98]
+2012-08-15 12:34:41 - PUT to [http://localhost:7474/db/data/node/98/properties/uid], status code [204]
+2012-08-15 12:34:41 - PUT to [http://localhost:7474/db/data/node/98/properties/screen_name], status code [204]
+2012-08-15 12:34:41 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/99]
+2012-08-15 12:34:41 - PUT to [http://localhost:7474/db/data/node/99/properties/mid], status code [204]
+2012-08-15 12:34:41 - PUT to [http://localhost:7474/db/data/node/99/properties/content], status code [400]
+2012-08-15 12:34:41 - POST to [http://localhost:7474/db/data/node/99/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/48]
+2012-08-15 12:34:41 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/98/traverse/node], status code [200], returned data: 
+[ ]
+KandarBear (Sam™)	363536580	[12573, 347, 199]	null
+RT <211492572596678656>	2012-06-10 00:19:25	[KandarBear]	tl	RT @JuniiFatiin: Wanna grab Samsung galaxy S3
+2012-08-15 12:34:41 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/100]
+2012-08-15 12:34:41 - PUT to [http://localhost:7474/db/data/node/100/properties/uid], status code [204]
+2012-08-15 12:34:41 - PUT to [http://localhost:7474/db/data/node/100/properties/screen_name], status code [204]
+2012-08-15 12:34:41 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/101]
+2012-08-15 12:34:41 - PUT to [http://localhost:7474/db/data/node/101/properties/mid], status code [204]
+2012-08-15 12:34:41 - PUT to [http://localhost:7474/db/data/node/101/properties/content], status code [204]
+2012-08-15 12:34:41 - POST to [http://localhost:7474/db/data/node/101/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/49]
+2012-08-15 12:34:41 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/100/traverse/node], status code [200], returned data: 
+[ ]
+snsdhoot (MyLazyJღ )	206773245	[11520, 1939, 1235]	null
+RP ->211490979239301120	2012-06-10 00:19:35	[snsdhoot]	en	@angskk LOL crazy. I then don't want. Later flood.
+2012-08-15 12:34:41 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/102]
+2012-08-15 12:34:42 - PUT to [http://localhost:7474/db/data/node/102/properties/uid], status code [204]
+2012-08-15 12:34:42 - PUT to [http://localhost:7474/db/data/node/102/properties/screen_name], status code [204]
+2012-08-15 12:34:42 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/103]
+2012-08-15 12:34:42 - PUT to [http://localhost:7474/db/data/node/103/properties/mid], status code [204]
+2012-08-15 12:34:42 - PUT to [http://localhost:7474/db/data/node/103/properties/content], status code [204]
+2012-08-15 12:34:42 - POST to [http://localhost:7474/db/data/node/103/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/50]
+2012-08-15 12:34:42 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/102/traverse/node], status code [200], returned data: 
+[ ]
+kvinshawn (Kevin Shawn)	83171209	[1647, 136, 122]	null
+RP ->211490870124494849	2012-06-10 00:19:37	[kvinshawn]	en	@ynhtlve we need to talk on bbm about that lol
+2012-08-15 12:34:42 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/104]
+2012-08-15 12:34:42 - PUT to [http://localhost:7474/db/data/node/104/properties/uid], status code [204]
+2012-08-15 12:34:42 - PUT to [http://localhost:7474/db/data/node/104/properties/screen_name], status code [204]
+2012-08-15 12:34:42 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/105]
+2012-08-15 12:34:42 - PUT to [http://localhost:7474/db/data/node/105/properties/mid], status code [204]
+2012-08-15 12:34:42 - PUT to [http://localhost:7474/db/data/node/105/properties/content], status code [204]
+2012-08-15 12:34:42 - POST to [http://localhost:7474/db/data/node/105/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/51]
+2012-08-15 12:34:42 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/104/traverse/node], status code [200], returned data: 
+[ ]
+An8aRazali (☼♫☺∞♀♥☮)	35718103	[22350, 385, 244]	null
+OG	2012-06-10 00:19:25	[An8aRazali]	et	Anna Sui &lt;3 http://t.co/LP56jpIG
+2012-08-15 12:34:42 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/106]
+2012-08-15 12:34:42 - PUT to [http://localhost:7474/db/data/node/106/properties/uid], status code [204]
+2012-08-15 12:34:42 - PUT to [http://localhost:7474/db/data/node/106/properties/screen_name], status code [204]
+2012-08-15 12:34:42 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/107]
+2012-08-15 12:34:42 - PUT to [http://localhost:7474/db/data/node/107/properties/mid], status code [204]
+2012-08-15 12:34:42 - PUT to [http://localhost:7474/db/data/node/107/properties/content], status code [204]
+2012-08-15 12:34:42 - POST to [http://localhost:7474/db/data/node/107/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/52]
+2012-08-15 12:34:43 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/106/traverse/node], status code [200], returned data: 
+[ ]
+SyuraHisham (2712 ™)	523414725	[3666, 221, 253]	null
+RT <211491260995870721>	2012-06-10 00:19:48	[SyuraHisham]	tl	RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...
+2012-08-15 12:34:43 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/108]
+2012-08-15 12:34:43 - PUT to [http://localhost:7474/db/data/node/108/properties/uid], status code [204]
+2012-08-15 12:34:43 - PUT to [http://localhost:7474/db/data/node/108/properties/screen_name], status code [204]
+2012-08-15 12:34:43 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/109]
+2012-08-15 12:34:43 - PUT to [http://localhost:7474/db/data/node/109/properties/mid], status code [204]
+2012-08-15 12:34:43 - PUT to [http://localhost:7474/db/data/node/109/properties/content], status code [204]
+2012-08-15 12:34:43 - POST to [http://localhost:7474/db/data/node/109/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/53]
+2012-08-15 12:34:43 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/108/traverse/node], status code [200], returned data: 
+[ ]
+syedirritsTTM ($¥€d ¥u§r@)	383777890	[4787, 132, 208]	null
+OG	2012-06-10 00:19:56	[syedirritsTTM]	en	The mrt is filled with the smell of alcoholic drinks. Me no like.
+2012-08-15 12:34:43 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/110]
+2012-08-15 12:34:43 - PUT to [http://localhost:7474/db/data/node/110/properties/uid], status code [204]
+2012-08-15 12:34:43 - PUT to [http://localhost:7474/db/data/node/110/properties/screen_name], status code [204]
+2012-08-15 12:34:43 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/111]
+2012-08-15 12:34:43 - PUT to [http://localhost:7474/db/data/node/111/properties/mid], status code [204]
+2012-08-15 12:34:43 - PUT to [http://localhost:7474/db/data/node/111/properties/content], status code [204]
+2012-08-15 12:34:43 - POST to [http://localhost:7474/db/data/node/111/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/54]
+2012-08-15 12:34:43 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/110/traverse/node], status code [200], returned data: 
+[ ]
+Iyansfl (Le' Izziyano ♥)	504429132	[4113, 424, 243]	null
+RT <211491260995870721>	2012-06-10 00:19:57	[Iyansfl]	tl	RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...
+2012-08-15 12:34:43 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/112]
+2012-08-15 12:34:43 - PUT to [http://localhost:7474/db/data/node/112/properties/uid], status code [204]
+2012-08-15 12:34:44 - PUT to [http://localhost:7474/db/data/node/112/properties/screen_name], status code [204]
+2012-08-15 12:34:44 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/113]
+2012-08-15 12:34:44 - PUT to [http://localhost:7474/db/data/node/113/properties/mid], status code [204]
+2012-08-15 12:34:44 - PUT to [http://localhost:7474/db/data/node/113/properties/content], status code [204]
+2012-08-15 12:34:44 - POST to [http://localhost:7474/db/data/node/113/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/55]
+2012-08-15 12:34:44 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/112/traverse/node], status code [200], returned data: 
+[ ]
+ceemj_ (Crystal Ee Man Jing)	127180179	[47683, 337, 296]	null
+RP ->211491994286047233	2012-06-10 00:20:09	[ceemj_]	en	@gwx_ wah... Left me lonely lonely take iphone 3gs so beiai. Sigh sigh. Uhh idk ley you going both tuitions or?
+2012-08-15 12:34:44 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/114]
+2012-08-15 12:34:44 - PUT to [http://localhost:7474/db/data/node/114/properties/uid], status code [204]
+2012-08-15 12:34:44 - PUT to [http://localhost:7474/db/data/node/114/properties/screen_name], status code [204]
+2012-08-15 12:34:44 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/115]
+2012-08-15 12:34:44 - PUT to [http://localhost:7474/db/data/node/115/properties/mid], status code [204]
+2012-08-15 12:34:44 - PUT to [http://localhost:7474/db/data/node/115/properties/content], status code [204]
+2012-08-15 12:34:44 - POST to [http://localhost:7474/db/data/node/115/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/56]
+2012-08-15 12:34:44 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/114/traverse/node], status code [200], returned data: 
+[ ]
+itisiylia (illyeah monica)	366476611	[1467, 62, 96]	null
+OG	2012-05-22 22:45:12	[itisiylia]	hu	Ni kalau tk kuat semangat boleh nangis sak tengok orang P.O.P.
+2012-08-15 12:34:44 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/116]
+2012-08-15 12:34:44 - PUT to [http://localhost:7474/db/data/node/116/properties/uid], status code [204]
+2012-08-15 12:34:44 - PUT to [http://localhost:7474/db/data/node/116/properties/screen_name], status code [204]
+2012-08-15 12:34:44 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/117]
+2012-08-15 12:34:44 - PUT to [http://localhost:7474/db/data/node/117/properties/mid], status code [204]
+2012-08-15 12:34:45 - PUT to [http://localhost:7474/db/data/node/117/properties/content], status code [204]
+2012-08-15 12:34:45 - POST to [http://localhost:7474/db/data/node/117/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/57]
+2012-08-15 12:34:45 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/116/traverse/node], status code [200], returned data: 
+[ ]
+AskSirStamford (Stamford Raffles)	198013980	[22242, 418, 406]	null
+OG	2012-05-22 22:45:18	[AskSirStamford]	en	Farewell Mr Drogba, ohhh, careful, don't trip on the step, ohh your on the floor like a sack of spuds #getup
+2012-08-15 12:34:45 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/118]
+2012-08-15 12:34:45 - PUT to [http://localhost:7474/db/data/node/118/properties/uid], status code [204]
+2012-08-15 12:34:45 - PUT to [http://localhost:7474/db/data/node/118/properties/screen_name], status code [204]
+2012-08-15 12:34:45 - POST to [http://localhost:7474/db/data/node], status code [201], location header [http://localhost:7474/db/data/node/119]
+2012-08-15 12:34:45 - PUT to [http://localhost:7474/db/data/node/119/properties/mid], status code [204]
+2012-08-15 12:34:45 - PUT to [http://localhost:7474/db/data/node/119/properties/content], status code [204]
+2012-08-15 12:34:45 - POST to [http://localhost:7474/db/data/node/119/relationships], status code [201], location header [http://localhost:7474/db/data/relationship/58]
+2012-08-15 12:34:45 - POST [{  "order" : "breadth first",  "uniqueness" : "node", "relationships" : [{  "type" : "RETWEET", "direction" : "in" }], "return filter" : { "language" : "builtin", "name" : "all" }, "max depth" : 1 }] to [http://localhost:7474/db/data/node/118/traverse/node], status code [200], returned data: 
+[ ]
+

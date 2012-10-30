@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/brandtology/!svn/ver/9334/neo4j_test/src/com/brandtology/twitter
+END
+TwitterStatusLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/brandtology/!svn/ver/9334/neo4j_test/src/com/brandtology/twitter/TwitterStatusLookup.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/brandtology/!svn/ver/9334/neo4j_test/src/com/brandtology/twitter/Constants.java
+END
+HttpClientManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/brandtology/!svn/ver/9334/neo4j_test/src/com/brandtology/twitter/HttpClientManager.java
+END
+TwitterUserLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/brandtology/!svn/ver/9334/neo4j_test/src/com/brandtology/twitter/TwitterUserLookup.java
+END

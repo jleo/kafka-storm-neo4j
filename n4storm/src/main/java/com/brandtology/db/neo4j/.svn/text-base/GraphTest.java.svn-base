@@ -1,0 +1,179 @@
+/**
+ * 
+ */
+package com.brandtology.db.neo4j;
+
+import java.util.List;
+
+import org.neo4j.graphdb.Node;
+import org.neo4j.graphdb.Relationship;
+
+import com.brandtology.entity.Tweet;
+import com.brandtology.entity.Voice;
+import com.brandtology.io.log.SystemLogger;
+import com.brandtology.twitter.TwitterStatusLookup;
+import com.brandtology.twitter.TwitterUserLookup;
+
+/**
+ * @author leah
+ *
+ */
+public class GraphTest {
+	
+	Neo4jRestAPIGraphHandler neo4j;
+	
+	/**
+	 * 
+	 */
+	public void setup(){
+		this.neo4j = new Neo4jRestAPIGraphHandler();
+		this.neo4j.createDb();
+	}
+	
+	/**
+	 * 
+	 */
+	public void closeup(){
+		this.neo4j.shutDown();
+	}
+	
+	/**
+	 * 
+	 */
+	private Node handleTweet(Tweet tweet){
+
+		Node tweetNode = neo4j.getTweetNodeByMid(tweet.getMid());
+		// insert the tweet only when it does not exist
+		if(tweetNode==null){
+			tweetNode = neo4j.createTweetNode(tweet);
+			neo4j.indexTweetNode(tweetNode);
+			SystemLogger.printInfo("CREATING NEW TWEET NODE:\t"+tweetNode.getProperty("mid"));
+		}
+		return tweetNode;
+	}
+	
+	/**
+	 * 
+	 */
+	private Node handleVoice(Voice voice){
+
+		Node voiceNode = null;
+		if(voice.getUid()!=null)
+			voiceNode = neo4j.getVoiceNodeByUid(voice.getUid());
+		else
+			voiceNode = neo4j.getVoiceNodeByScreenName(voice.getScreenName());
+
+		// insert the voice only when it does not exist
+		if(voiceNode==null){
+			voiceNode = neo4j.createVoiceNode(voice);	
+			neo4j.indexVoiceNode(voiceNode);
+			SystemLogger.printInfo("CREATING NEW VOICE NODE:\t"+voiceNode.getProperty("screen_name"));
+		}
+		return voiceNode;
+	}
+	
+	/**
+	 * 
+	 */
+	private Relationship handlePublishRelationship(Node voiceNode, Node tweetNode){
+		 // link the tweet and its voice using publish relatinship type			
+		Relationship publish = neo4j.createRelationship(voiceNode, tweetNode, MicroblogRelationshipType.PUBLISH);
+        SystemLogger.printInfo("RELATIONSHIP CREATED:\t("+voiceNode.getProperty("screen_name")+" -- "+publish.getType().name()+" -- "+tweetNode.getProperty("mid")+")");
+	
+        return publish;
+	}
+	
+	/**
+	 * 
+	 */
+	private Relationship handleMentionRelationship(Node tweetNode, Node voiceNode){
+
+    	// link the tweet to its mentioned voice. 
+		Relationship mention = neo4j.createRelationship(tweetNode, voiceNode, MicroblogRelationshipType.MENTION);
+        SystemLogger.printInfo("RELATIONSHIP CREATED:\t("+tweetNode.getProperty("mid")+" -- "+mention.getType().name()+" -- "+voiceNode.getProperty("screen_name")+")");
+		return mention;
+	}
+	
+	/**
+	 * 
+	 */
+	private Relationship handleReplyRelationship(Node tweetNode, Node parentNode){
+		Relationship reply = neo4j.createRelationship(tweetNode, parentNode, MicroblogRelationshipType.REPLY);
+		SystemLogger.printInfo("RELATIONSHIP CREATED:\t("+tweetNode.getProperty("mid")+" -- "+MicroblogRelationshipType.REPLY.name()+" -- "+parentNode.getProperty("mid")+")");
+		return reply;
+	}
+	
+	/**
+	 * 
+	 */
+	private Relationship handleRetweetRelationship(Node tweetNode, Node parentNode){
+		Relationship retweet = neo4j.createRelationship(tweetNode, parentNode, MicroblogRelationshipType.RETWEET);
+		SystemLogger.printInfo("RELATIONSHIP CREATED:\t("+tweetNode.getProperty("mid")+" -- "+MicroblogRelationshipType.RETWEET.name()+" -- "+parentNode.getProperty("mid")+")");
+		return retweet;
+	}
+	
+	/**
+	 * 
+	 */
+	public void processTweet(Tweet tweet){
+		Node tweetNode = handleTweet(tweet);
+
+		Voice user = tweet.getAuthor();
+		Node voiceNode = handleVoice(user);		
+		
+		Relationship publish = handlePublishRelationship(voiceNode, tweetNode);
+       
+        // link the tweet to each voice it mentions.
+        List mentions = tweet.getMentions();
+        for(int m=0;m<mentions.size();m++){
+        	String screenName = (String)mentions.get(m);
+        	Node mentioned = neo4j.getVoiceNodeByScreenName(screenName);
+        	
+        	// insert the voice if it does not exist. 
+        	if(mentioned==null){
+        		Voice voice = TwitterUserLookup.getTwitterUser(screenName);
+        		mentioned = handleVoice(voice);
+        	}
+
+        	Relationship mention = handleMentionRelationship(tweetNode, mentioned);  
+        }
+        
+        String pmid = tweet.getParentMid();
+        if(pmid!=null && !pmid.equals("null")){
+        	Node parentNode = neo4j.getTweetNodeByMid(pmid);
+        	
+        	// insert a tweet node if parent tweet does not exist. 
+        	if(parentNode==null){
+        		Tweet retweeted = TwitterStatusLookup.getStatusDetail(pmid);
+        		if(retweeted!=null){
+        		
+        			parentNode = handleTweet(retweeted);
+        			
+        			Voice voice = retweeted.getAuthor();
+        			if(voice!=null){
+        				Node vNode = handleVoice(voice);
+        					
+        				Relationship published2 = handlePublishRelationship(vNode, parentNode);
+        			}
+        		}
+        	}
+        	
+        	// Link tweet and its parent accroding to their relationship.
+        	int relatinshipTypeID = tweet.getRelationshipTypeID();
+        	if(relatinshipTypeID==2){
+        		handleReplyRelationship(tweetNode, parentNode);
+        	}else if(relatinshipTypeID==3){
+        		handleRetweetRelationship(tweetNode, parentNode);
+        	}
+        }
+	}
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

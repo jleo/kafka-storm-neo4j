@@ -1,0 +1,12 @@
+{
+  "voices" : {
+    "template" : "http://localhost:7474/db/data/index/node/voices/{key}/{value}",
+    "provider" : "lucene",
+    "type" : "exact"
+  },
+  "tweets" : {
+    "template" : "http://localhost:7474/db/data/index/node/tweets/{key}/{value}",
+    "provider" : "lucene",
+    "type" : "exact"
+  }
+}

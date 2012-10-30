@@ -1,0 +1,3616 @@
+{"list":[
+{
+   "demographic":{
+      "gender":"unisex"
+   },
+   "interaction":{
+      "source":"TweetDeck",
+      "author":{
+         "username":"energywen",
+         "name":"Wen Ting",
+         "id":32683797,
+         "avatar":"http://a0.twimg.com/profile_images/2280391971/image_normal.png",
+         "link":"http://twitter.com/energywen"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:15:01 +0000",
+      "content":"@monkeuchi yahoo auction japan can use foreign card to pay not?",
+      "id":"1e1b24e43a67a080e074133df3745712",
+      "link":"http://twitter.com/energywen/statuses/211491601401397248"
+   },
+   "klout":{
+      "score":42
+   },
+   "language":{
+      "tag":"en"
+   },
+   "salience":{
+      "content":{
+         "sentiment":0
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:15:01 +0000",
+      "id":"211491601401397248",
+      "in_reply_to_screen_name":"monkeuchi",
+      "in_reply_to_user_id":"72251915",
+      "mentions":[
+         "monkeuchi"
+      ],
+      "source":"<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+      "text":"@monkeuchi yahoo auction japan can use foreign card to pay not?",
+      "user":{
+         "name":"Wen Ting",
+         "url":"http://misskahi.com",
+         "description":"\u266A KPOP \u300E\uCC44\uC5F0\uFF1B\uBC15\uAC00\uD76C\uFF1B\uC804\uC9C0\uC724\uFF1B\uD2F0\uD30C\uB2C8\uFF1B\uB9B0\uC544\uFF1B\uC6B0\uD0DC\uC6B4\u300F \n\u266AAKB48\u306E\u9AD8\u6A4B\u307F\u306A\u307F\uFF1B\u677E\u539F\u590F\u6D77\uFF1B\u6CB3\u897F\u667A\u7F8E\uFF1B\u79CB\u5143\u624D\u52A0\uFF1B\u5BAE\u6FA4\u4F50\u6C5F\uFF1BSKE48\u306E\u677E\u4E95\u73B2\u5948\u266A \nPersonal twitter. Tweets 'bout my life, kpop & akb48.",
+         "location":"Singapore \uC2F1\uAC00\uD3F4",
+         "statuses_count":88193,
+         "followers_count":2653,
+         "friends_count":333,
+         "screen_name":"energywen",
+         "lang":"en",
+         "time_zone":"Singapore",
+         "utc_offset":28800,
+         "listed_count":115,
+         "id":32683797,
+         "id_str":"32683797",
+         "created_at":"Sat, 18 Apr 2009 00:28:45 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"web",
+      "author":{
+         "username":"Mra_Mastura",
+         "name":"Mra",
+         "id":291582617,
+         "avatar":"http://a0.twimg.com/profile_images/2292062367/kxqv6prq0sw9ewa7n5d7_normal.jpeg",
+         "link":"http://twitter.com/Mra_Mastura"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:15:01 +0000",
+      "content":"RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...",
+      "id":"1e1b24e43a67a080e0746e54066d748e",
+      "link":"http://twitter.com/Mra_Mastura/statuses/211491601581748224"
+   },
+   "klout":{
+      "score":41
+   },
+   "language":{
+      "tag":"tl"
+   },
+   "twitter":{
+      "id":"211491601581748224",
+      "retweet":{
+         "text":"Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna batu bersurat je.",
+         "id":"211491601581748224",
+         "user":{
+            "name":"Mra",
+            "url":"http://amiramastura.blogspot.com/",
+            "description":"23yo. Oppa's. Suka borak secara unmensi di TL dgn kawan2. :)",
+            "location":"Malaysia",
+            "statuses_count":35317,
+            "followers_count":362,
+            "friends_count":456,
+            "screen_name":"Mra_Mastura",
+            "lang":"en",
+            "time_zone":"Kuala Lumpur",
+            "utc_offset":28800,
+            "listed_count":5,
+            "id":291582617,
+            "id_str":"291582617",
+            "created_at":"Mon, 02 May 2011 08:13:24 +0000"
+         },
+         "source":"web",
+         "count":11,
+         "created_at":"Sat, 09 Jun 2012 16:15:01 +0000"
+      },
+      "retweeted":{
+         "id":"211491260995870721",
+         "user":{
+            "name":"TAUFIQ AKMAL\u2122",
+            "url":"http://www.facebook.com/taufiqakmal",
+            "description":"Photographer and Photo Editor at OSC Studio's. Always tweet about teenagers, love, habbits, politics and reality life. #ChelseaFC #TwtupJOHOR #JackmanSkeletor",
+            "location":"Cashew RD, Singapore",
+            "statuses_count":4879,
+            "followers_count":3207,
+            "friends_count":2585,
+            "screen_name":"TaufiqAkmals",
+            "lang":"en",
+            "time_zone":"Kuala Lumpur",
+            "utc_offset":28800,
+            "listed_count":1,
+            "id":388636925,
+            "id_str":"388636925",
+            "geo_enabled":true,
+            "created_at":"Tue, 11 Oct 2011 02:44:23 +0000"
+         },
+         "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "created_at":"Sat, 09 Jun 2012 16:13:40 +0000"
+      }
+   }
+},
+{
+   "demographic":{
+      "gender":"unisex"
+   },
+   "interaction":{
+      "source":"Mobile Web",
+      "author":{
+         "username":"ngjianrong_",
+         "name":"Ng jian rong",
+         "id":524438475,
+         "avatar":"http://a0.twimg.com/profile_images/1896618945/FacebookHomescreenImage_normal.jpg",
+         "link":"http://twitter.com/ngjianrong_"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:15:13 +0000",
+      "content":"Things to bring to famine camp. *impt* 1)2 portable charger 2)1 multi plug 3)1 iphone charger = godly phone",
+      "id":"1e1b24e4acd7ae80e0740e8e4c35379e",
+      "link":"http://twitter.com/ngjianrong_/statuses/211491648750886913"
+   },
+   "klout":{
+      "score":32
+   },
+   "language":{
+      "tag":"en"
+   },
+   "salience":{
+      "content":{
+         "sentiment":0
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:15:13 +0000",
+      "id":"211491648750886913",
+      "source":"<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+      "text":"Things to bring to famine camp. *impt* 1)2 portable charger 2)1 multi plug 3)1 iphone charger = godly phone",
+      "user":{
+         "name":"Ng jian rong",
+         "description":"No TAGLINE. JESSIEJ",
+         "location":"Singapore",
+         "statuses_count":2801,
+         "followers_count":176,
+         "friends_count":89,
+         "screen_name":"ngjianrong_",
+         "lang":"en",
+         "time_zone":"Beijing",
+         "utc_offset":28800,
+         "id":524438475,
+         "id_str":"524438475",
+         "geo_enabled":true,
+         "created_at":"Wed, 14 Mar 2012 15:10:34 +0000"
+      }
+   }
+},
+{
+   "demographic":{
+      "gender":"male"
+   },
+   "interaction":{
+      "source":"sgBEAT",
+      "author":{
+         "username":"logozzz",
+         "name":"Mitchell Choo",
+         "id":234592534,
+         "avatar":"http://a0.twimg.com/profile_images/1207967343/funnypicturesss_normal.jpg",
+         "link":"http://twitter.com/logozzz"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:15:29 +0000",
+      "content":"Emcee: \"Buy a Dell now\" I heard it as 'buy Adele now' ._.",
+      "id":"1e1b24e5456ea680e074018509840670",
+      "link":"http://twitter.com/logozzz/statuses/211491718820937729"
+   },
+   "klout":{
+      "score":10
+   },
+   "language":{
+      "tag":"en"
+   },
+   "salience":{
+      "content":{
+         "sentiment":0
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:15:29 +0000",
+      "id":"211491718820937729",
+      "source":"<a href=\"http://sgBEAT.com/\" rel=\"nofollow\">sgBEAT</a>",
+      "text":"Emcee: \"Buy a Dell now\" I heard it as 'buy Adele now' ._.",
+      "user":{
+         "name":"Mitchell Choo",
+         "location":"Singapore",
+         "statuses_count":5009,
+         "followers_count":7,
+         "friends_count":2,
+         "screen_name":"logozzz",
+         "lang":"en",
+         "time_zone":"Singapore",
+         "utc_offset":28800,
+         "id":234592534,
+         "id_str":"234592534",
+         "created_at":"Thu, 06 Jan 2011 01:28:42 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"Twitter for Android",
+      "author":{
+         "username":"Adahdouston",
+         "name":"\u2665Adah_SD\u2665",
+         "id":307175832,
+         "avatar":"http://a0.twimg.com/profile_images/2265252948/67gkf5nbcdhej55kwjb5_normal.jpeg",
+         "link":"http://twitter.com/Adahdouston"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:15:31 +0000",
+      "content":"RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...",
+      "id":"1e1b24e55881a380e074180f93724c52",
+      "link":"http://twitter.com/Adahdouston/statuses/211491725263384577"
+   },
+   "klout":{
+      "score":38
+   },
+   "language":{
+      "tag":"tl"
+   },
+   "twitter":{
+      "id":"211491725263384577",
+      "retweet":{
+         "text":"Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna batu bersurat je.",
+         "id":"211491725263384577",
+         "user":{
+            "name":"\u2665Adah_SD\u2665",
+            "url":"http://adahdouston.blogspot.com",
+            "description":"I'll love you on my way #GGMUParkJiSung , 94's",
+            "location":"malaysia",
+            "statuses_count":5811,
+            "followers_count":446,
+            "friends_count":933,
+            "screen_name":"Adahdouston",
+            "lang":"en",
+            "time_zone":"Alaska",
+            "utc_offset":-32400,
+            "listed_count":1,
+            "id":307175832,
+            "id_str":"307175832",
+            "created_at":"Sun, 29 May 2011 04:47:46 +0000"
+         },
+         "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "count":17,
+         "created_at":"Sat, 09 Jun 2012 16:15:31 +0000"
+      },
+      "retweeted":{
+         "id":"211491260995870721",
+         "user":{
+            "name":"TAUFIQ AKMAL\u2122",
+            "url":"http://www.facebook.com/taufiqakmal",
+            "description":"Photographer and Photo Editor at OSC Studio's. Always tweet about teenagers, love, habbits, politics and reality life. #ChelseaFC #TwtupJOHOR #JackmanSkeletor",
+            "location":"Cashew RD, Singapore",
+            "statuses_count":4879,
+            "followers_count":3207,
+            "friends_count":2585,
+            "screen_name":"TaufiqAkmals",
+            "lang":"en",
+            "time_zone":"Kuala Lumpur",
+            "utc_offset":28800,
+            "listed_count":1,
+            "id":388636925,
+            "id_str":"388636925",
+            "geo_enabled":true,
+            "created_at":"Tue, 11 Oct 2011 02:44:23 +0000"
+         },
+         "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "created_at":"Sat, 09 Jun 2012 16:13:40 +0000"
+      }
+   }
+},
+{
+   "demographic":{
+      "gender":"male"
+   },
+   "interaction":{
+      "source":"web",
+      "author":{
+         "username":"akeem_yuck",
+         "name":"abdul hakEEM",
+         "id":364158857,
+         "avatar":"http://a0.twimg.com/profile_images/2288881973/mjd4o0ti3yekk3y7vdhr_normal.jpeg",
+         "link":"http://twitter.com/akeem_yuck"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:15:32 +0000",
+      "content":"RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...",
+      "id":"1e1b24e5620aaa00e0746039f035fc3c",
+      "link":"http://twitter.com/akeem_yuck/statuses/211491730388828160"
+   },
+   "klout":{
+      "score":10
+   },
+   "language":{
+      "tag":"tl"
+   },
+   "twitter":{
+      "id":"211491730388828160",
+      "retweet":{
+         "text":"Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna batu bersurat je.",
+         "id":"211491730388828160",
+         "user":{
+            "name":"abdul hakEEM",
+            "description":"akEEm|13|Smk Tuanku Lailatul Shahreen|\r\n",
+            "location":"Malaysia",
+            "statuses_count":142,
+            "followers_count":20,
+            "friends_count":73,
+            "screen_name":"akeem_yuck",
+            "lang":"en",
+            "time_zone":"Alaska",
+            "utc_offset":-32400,
+            "id":364158857,
+            "id_str":"364158857",
+            "geo_enabled":true,
+            "created_at":"Mon, 29 Aug 2011 09:12:34 +0000"
+         },
+         "source":"web",
+         "count":18,
+         "created_at":"Sat, 09 Jun 2012 16:15:32 +0000"
+      },
+      "retweeted":{
+         "id":"211491260995870721",
+         "user":{
+            "name":"TAUFIQ AKMAL\u2122",
+            "url":"http://www.facebook.com/taufiqakmal",
+            "description":"Photographer and Photo Editor at OSC Studio's. Always tweet about teenagers, love, habbits, politics and reality life. #ChelseaFC #TwtupJOHOR #JackmanSkeletor",
+            "location":"Cashew RD, Singapore",
+            "statuses_count":4879,
+            "followers_count":3208,
+            "friends_count":2585,
+            "screen_name":"TaufiqAkmals",
+            "lang":"en",
+            "time_zone":"Kuala Lumpur",
+            "utc_offset":28800,
+            "listed_count":1,
+            "id":388636925,
+            "id_str":"388636925",
+            "geo_enabled":true,
+            "created_at":"Tue, 11 Oct 2011 02:44:23 +0000"
+         },
+         "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "created_at":"Sat, 09 Jun 2012 16:13:40 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"UberSocial for BlackBerry",
+      "author":{
+         "username":"_YannaSobri",
+         "name":"MissYanna",
+         "id":333412112,
+         "avatar":"http://a0.twimg.com/profile_images/2204505962/339483368_normal.jpg",
+         "link":"http://twitter.com/_YannaSobri"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:15:38 +0000",
+      "content":"RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...",
+      "id":"1e1b24e59b43a100e074085757315f02",
+      "link":"http://twitter.com/_YannaSobri/statuses/211491755915350016"
+   },
+   "klout":{
+      "score":36
+   },
+   "language":{
+      "tag":"tl"
+   },
+   "twitter":{
+      "id":"211491755915350016",
+      "retweet":{
+         "text":"Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna batu bersurat je.",
+         "id":"211491755915350016",
+         "user":{
+            "name":"MissYanna",
+            "description":"A daughter, sister & @TaylorLautner__ Ex girlfriend ",
+            "location":"TOMORROWLAND",
+            "statuses_count":17991,
+            "followers_count":361,
+            "friends_count":214,
+            "screen_name":"_YannaSobri",
+            "lang":"en",
+            "time_zone":"Beijing",
+            "utc_offset":28800,
+            "id":333412112,
+            "id_str":"333412112",
+            "created_at":"Mon, 11 Jul 2011 14:08:13 +0000"
+         },
+         "source":"<a href=\"http://ubersocial.com\" rel=\"nofollow\">UberSocial for BlackBerry</a>",
+         "count":20,
+         "created_at":"Sat, 09 Jun 2012 16:15:38 +0000"
+      },
+      "retweeted":{
+         "id":"211491260995870721",
+         "user":{
+            "name":"TAUFIQ AKMAL\u2122",
+            "url":"http://www.facebook.com/taufiqakmal",
+            "description":"Photographer and Photo Editor at OSC Studio's. Always tweet about teenagers, love, habbits, politics and reality life. #ChelseaFC #TwtupJOHOR #JackmanSkeletor",
+            "location":"Cashew RD, Singapore",
+            "statuses_count":4879,
+            "followers_count":3208,
+            "friends_count":2585,
+            "screen_name":"TaufiqAkmals",
+            "lang":"en",
+            "time_zone":"Kuala Lumpur",
+            "utc_offset":28800,
+            "listed_count":1,
+            "id":388636925,
+            "id_str":"388636925",
+            "geo_enabled":true,
+            "created_at":"Tue, 11 Oct 2011 02:44:23 +0000"
+         },
+         "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "created_at":"Sat, 09 Jun 2012 16:13:40 +0000"
+      }
+   }
+},
+{
+   "demographic":{
+      "gender":"mostly_male"
+   },
+   "interaction":{
+      "source":"Tweet Button",
+      "author":{
+         "username":"eddieoh976",
+         "name":"Eddie Oh \u30A8\u30C7\u30A3\u30FC\u30AA\u30FC",
+         "id":68626349,
+         "avatar":"http://a0.twimg.com/profile_images/2251593297/20120504_233539_normal.jpg",
+         "link":"http://twitter.com/eddieoh976"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:15:37 +0000",
+      "content":"Rage Rules! Use my code tsz12903 OK iOS: http://t.co/KcvZjAE0 Android: https://t.co/TPiBWEdw #rageofbahamut @rageofbahamut",
+      "id":"1e1b24e591b9aa80e07460ab5b20356e",
+      "link":"http://twitter.com/eddieoh976/statuses/211491752333410304"
+   },
+   "klout":{
+      "score":17
+   },
+   "language":{
+      "tag":"en"
+   },
+   "links":{
+      "created_at":[
+         "Mon, 14 May 2012 07:44:50 +0000",
+         "Mon, 14 May 2012 09:42:44 +0000"
+      ],
+      "retweet_count":[
+         136215,
+         11556
+      ],
+      "title":[
+         "Rage of Bahamut for iPhone 3GS, iPhone 4, iPhone 4S, iPod touch (3rd generation), iPod touch (4th generation) and iPad on the iTunes App Store",
+         "Rage of Bahamut - Android Apps on Google Play"
+      ],
+      "url":[
+         "http://itunes.apple.com/us/app/rage-of-bahamut/id506944493?mt=8",
+         "https://play.google.com/store/apps/details?id=com.mobage.ww.a692.Bahamut_Android&hl=en"
+      ]
+   },
+   "salience":{
+      "content":{
+         "sentiment":-6
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:15:37 +0000",
+      "domains":[
+         "itunes.apple.com",
+         "play.google.com"
+      ],
+      "id":"211491752333410304",
+      "links":[
+         "http://itunes.apple.com/app/rage-of-bahamut/id506944493?mt=8",
+         "https://play.google.com/store/apps/details?id=com.mobage.ww.a692.Bahamut_Android&hl=en"
+      ],
+      "mentions":[
+         "RageofBahamut"
+      ],
+      "source":"<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+      "text":"Rage Rules! Use my code tsz12903 OK iOS: http://t.co/KcvZjAE0 Android: https://t.co/TPiBWEdw #rageofbahamut @rageofbahamut",
+      "user":{
+         "name":"Eddie Oh \u30A8\u30C7\u30A3\u30FC\u30AA\u30FC",
+         "description":"haha, chat with me! i am friendly",
+         "location":"Singapore",
+         "statuses_count":990,
+         "followers_count":66,
+         "friends_count":107,
+         "screen_name":"eddieoh976",
+         "lang":"en",
+         "time_zone":"Singapore",
+         "utc_offset":28800,
+         "id":68626349,
+         "id_str":"68626349",
+         "geo_enabled":true,
+         "created_at":"Tue, 25 Aug 2009 06:25:42 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"Twitter for iPhone",
+      "author":{
+         "username":"vanessajoy2000",
+         "name":"V\u03B1n\u03B5ssa \u0394grav\u03AF\u03B1d\u03C6r\u2614",
+         "id":222726850,
+         "avatar":"http://a0.twimg.com/profile_images/2263172265/image_normal.jpg",
+         "link":"http://twitter.com/vanessajoy2000"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:15:42 +0000",
+      "content":"In The HP exhibition \nsorting hat ceremony\nStaff: who will be brave to come up here\n*Me First to raise my hand\nStaff: ok\nShe sorted me and",
+      "id":"1e1b24e5c168ab00e07468f67cc1b03e",
+      "link":"http://twitter.com/vanessajoy2000/statuses/211491771199393793"
+   },
+   "klout":{
+      "score":17
+   },
+   "language":{
+      "tag":"en"
+   },
+   "salience":{
+      "content":{
+         "sentiment":7
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:15:42 +0000",
+      "id":"211491771199393793",
+      "source":"<a href=\"http://twitter.com/#!/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "text":"In The HP exhibition \nsorting hat ceremony\nStaff: who will be brave to come up here\n*Me First to raise my hand\nStaff: ok\nShe sorted me and",
+      "user":{
+         "name":"V\u03B1n\u03B5ssa \u0394grav\u03AF\u03B1d\u03C6r\u2614",
+         "description":"I am an imperfect person loved by a perfect God \u2764\u2764\u2764",
+         "location":"singapore",
+         "statuses_count":837,
+         "followers_count":58,
+         "friends_count":143,
+         "screen_name":"vanessajoy2000",
+         "lang":"en",
+         "id":222726850,
+         "id_str":"222726850",
+         "geo_enabled":true,
+         "created_at":"Sat, 04 Dec 2010 07:45:01 +0000"
+      }
+   }
+},
+{
+   "demographic":{
+      "gender":"male"
+   },
+   "interaction":{
+      "source":"Tweet Button",
+      "author":{
+         "username":"Fiorion",
+         "name":"\u30D5\u30A3\u30AA\u30EA\u30AA\u30F3 / Joshua ",
+         "id":230718838,
+         "avatar":"http://a0.twimg.com/profile_images/1199167588/0eeb7d344ece027b83dd309fb100f1d2_normal.jpg",
+         "link":"http://twitter.com/Fiorion"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:15:44 +0000",
+      "content":"Use my referral code!!! wpb73424 iOS: http://t.co/nL5CkAS9 Android: https://t.co/317bsNuS #rageofbahamut @rageofbahamut",
+      "id":"1e1b24e5d47ba800e0747f10262d9eec",
+      "link":"http://twitter.com/Fiorion/statuses/211491782465294336"
+   },
+   "klout":{
+      "score":17
+   },
+   "language":{
+      "tag":"es"
+   },
+   "links":{
+      "created_at":[
+         "Mon, 14 May 2012 07:44:50 +0000",
+         "Mon, 14 May 2012 09:42:44 +0000"
+      ],
+      "retweet_count":[
+         136216,
+         11556
+      ],
+      "title":[
+         "Rage of Bahamut for iPhone 3GS, iPhone 4, iPhone 4S, iPod touch (3rd generation), iPod touch (4th generation) and iPad on the iTunes App Store",
+         "Rage of Bahamut - Android Apps on Google Play"
+      ],
+      "url":[
+         "http://itunes.apple.com/us/app/rage-of-bahamut/id506944493?mt=8",
+         "https://play.google.com/store/apps/details?id=com.mobage.ww.a692.Bahamut_Android&hl=en"
+      ]
+   },
+   "salience":{
+      "content":{
+         "sentiment":0
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:15:44 +0000",
+      "domains":[
+         "itunes.apple.com",
+         "play.google.com"
+      ],
+      "id":"211491782465294336",
+      "links":[
+         "http://itunes.apple.com/app/rage-of-bahamut/id506944493?mt=8",
+         "https://play.google.com/store/apps/details?id=com.mobage.ww.a692.Bahamut_Android&hl=en"
+      ],
+      "mentions":[
+         "RageofBahamut"
+      ],
+      "source":"<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+      "text":"Use my referral code!!! wpb73424 iOS: http://t.co/nL5CkAS9 Android: https://t.co/317bsNuS #rageofbahamut @rageofbahamut",
+      "user":{
+         "name":"\u30D5\u30A3\u30AA\u30EA\u30AA\u30F3 / Joshua ",
+         "url":"http://www.youtube.com/user/Fiorion",
+         "description":"Likes gaming and anime. Always finding random stuff to do. Also post let's play videos on youtube; www.youtube.com/user/Fiorion",
+         "location":"Singapore",
+         "statuses_count":644,
+         "followers_count":45,
+         "friends_count":96,
+         "screen_name":"Fiorion",
+         "lang":"en",
+         "time_zone":"Singapore",
+         "utc_offset":28800,
+         "listed_count":4,
+         "id":230718838,
+         "id_str":"230718838",
+         "geo_enabled":true,
+         "created_at":"Sun, 26 Dec 2010 13:10:50 +0000"
+      }
+   }
+},
+{
+   "demographic":{
+      "gender":"mostly_male"
+   },
+   "interaction":{
+      "source":"Twitter for Android",
+      "author":{
+         "username":"Glenisverynice",
+         "name":"insipid glen ",
+         "id":295056805,
+         "avatar":"http://a0.twimg.com/profile_images/2166713288/KXEtPLU6_normal",
+         "link":"http://twitter.com/Glenisverynice"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:15:52 +0000",
+      "content":"Now my Samsung galaxy ace is just another i touch. :(",
+      "id":"1e1b24e620c6ac00e074302d2e5fed4e",
+      "link":"http://twitter.com/Glenisverynice/statuses/211491812609761280"
+   },
+   "klout":{
+      "score":30
+   },
+   "language":{
+      "tag":"en"
+   },
+   "salience":{
+      "content":{
+         "sentiment":-5
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:15:52 +0000",
+      "id":"211491812609761280",
+      "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "text":"Now my Samsung galaxy ace is just another i touch. :(",
+      "user":{
+         "name":"insipid glen ",
+         "description":"say hi when you see me. :) i'll wave high back at yeah!",
+         "location":"Singapore",
+         "statuses_count":8124,
+         "followers_count":167,
+         "friends_count":160,
+         "screen_name":"Glenisverynice",
+         "lang":"en",
+         "time_zone":"Singapore",
+         "utc_offset":28800,
+         "id":295056805,
+         "id_str":"295056805",
+         "geo_enabled":true,
+         "created_at":"Sun, 08 May 2011 08:46:15 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"Twitter for Android",
+      "author":{
+         "username":"YuslessYusri",
+         "name":"MeltingAgain ;)",
+         "id":326146667,
+         "avatar":"http://a0.twimg.com/profile_images/2280067375/u237bdod4hyg8m372287_normal.jpeg",
+         "link":"http://twitter.com/YuslessYusri"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:15:47 +0000",
+      "content":"@FiletNugget Greatest sport in the world bro..",
+      "id":"1e1b24e5f117ab80e074f06a44d970a8",
+      "link":"http://twitter.com/YuslessYusri/statuses/211491793689264129"
+   },
+   "klout":{
+      "score":31
+   },
+   "language":{
+      "tag":"en"
+   },
+   "salience":{
+      "content":{
+         "sentiment":0
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:15:47 +0000",
+      "id":"211491793689264129",
+      "in_reply_to_screen_name":"FiletNugget",
+      "in_reply_to_status_id":"211491585815359490",
+      "in_reply_to_user_id":"215171005",
+      "mentions":[
+         "FiletNugget"
+      ],
+      "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "text":"@FiletNugget Greatest sport in the world bro..",
+      "user":{
+         "name":"MeltingAgain ;)",
+         "description":"Games, Football, Guitar. You look pretty by the way. Follow me? I'll follow back ;)",
+         "location":"Singapore",
+         "statuses_count":3213,
+         "followers_count":88,
+         "friends_count":80,
+         "screen_name":"YuslessYusri",
+         "lang":"en",
+         "time_zone":"Alaska",
+         "utc_offset":-32400,
+         "id":326146667,
+         "id_str":"326146667",
+         "geo_enabled":true,
+         "created_at":"Wed, 29 Jun 2011 13:09:53 +0000"
+      }
+   }
+},
+{
+   "demographic":{
+      "gender":"male"
+   },
+   "interaction":{
+      "source":"web",
+      "author":{
+         "username":"Aliffalepp",
+         "name":"John Lennon",
+         "id":409365474,
+         "avatar":"http://a0.twimg.com/profile_images/2292869866/zrxr45vn4s9o03rqa0fs_normal.jpeg",
+         "link":"http://twitter.com/Aliffalepp"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:16:16 +0000",
+      "content":"@MNaqibOsman Dm nombor hp",
+      "id":"1e1b24e705a8a800e074df66cbee7a4a",
+      "link":"http://twitter.com/Aliffalepp/statuses/211491915009495040"
+   },
+   "klout":{
+      "score":39
+   },
+   "language":{
+      "tag":"la"
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:16:16 +0000",
+      "id":"211491915009495040",
+      "in_reply_to_screen_name":"MNaqibOsman",
+      "in_reply_to_status_id":"211491323780407298",
+      "in_reply_to_user_id":"328937475",
+      "mentions":[
+         "MNaqibOsman"
+      ],
+      "source":"web",
+      "text":"@MNaqibOsman Dm nombor hp",
+      "user":{
+         "name":"John Lennon",
+         "description":"SPM is around the corner.",
+         "location":"Jb - Singapore",
+         "statuses_count":13720,
+         "followers_count":178,
+         "friends_count":94,
+         "screen_name":"Aliffalepp",
+         "lang":"en",
+         "time_zone":"Alaska",
+         "utc_offset":-32400,
+         "id":409365474,
+         "id_str":"409365474",
+         "geo_enabled":true,
+         "created_at":"Thu, 10 Nov 2011 16:50:24 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"Twitter for Android",
+      "author":{
+         "username":"shiliyoonaddict",
+         "name":"\u2605shili\u2606",
+         "id":499765867,
+         "avatar":"http://a0.twimg.com/profile_images/2285955964/avatar_normal.JPEG",
+         "link":"http://twitter.com/shiliyoonaddict"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:16:25 +0000",
+      "content":"@muileng8459 @Peifangggggg thr is nthing impossible! ..tsk! We're flooding pf's mention..",
+      "id":"1e1b24e75b7da280e0741efce75c8b10",
+      "link":"http://twitter.com/shiliyoonaddict/statuses/211491951961313280"
+   },
+   "klout":{
+      "score":20
+   },
+   "language":{
+      "tag":"en"
+   },
+   "salience":{
+      "content":{
+         "sentiment":-7
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:16:25 +0000",
+      "id":"211491951961313280",
+      "in_reply_to_screen_name":"muileng8459",
+      "in_reply_to_status_id":"211491602735177730",
+      "in_reply_to_user_id":"577127565",
+      "mentions":[
+         "muileng8459",
+         "Peifangggggg"
+      ],
+      "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "text":"@muileng8459 @Peifangggggg thr is nthing impossible! ..tsk! We're flooding pf's mention..",
+      "user":{
+         "name":"\u2605shili\u2606",
+         "description":"\uC18C\uB140\uC2DC\uB300-\uC784\uC724\uC544! \u2665",
+         "location":"singapore",
+         "statuses_count":1134,
+         "followers_count":46,
+         "friends_count":171,
+         "screen_name":"shiliyoonaddict",
+         "lang":"en",
+         "time_zone":"Singapore",
+         "utc_offset":28800,
+         "id":499765867,
+         "id_str":"499765867",
+         "geo_enabled":true,
+         "created_at":"Wed, 22 Feb 2012 13:11:16 +0000"
+      }
+   }
+},
+{
+   "demographic":{
+      "gender":"female"
+   },
+   "interaction":{
+      "source":"Samsung Mobile",
+      "author":{
+         "username":"nisackecoh",
+         "name":"nisa asnisah ",
+         "id":241621945,
+         "avatar":"http://a0.twimg.com/profile_images/2186848924/page_normal.png",
+         "link":"http://twitter.com/nisackecoh"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:16:32 +0000",
+      "content":"RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...",
+      "id":"1e1b24e79e3fa000e0749e731ee7ce6e",
+      "link":"http://twitter.com/nisackecoh/statuses/211491980654559232"
+   },
+   "klout":{
+      "score":31
+   },
+   "language":{
+      "tag":"tl"
+   },
+   "twitter":{
+      "id":"211491980654559232",
+      "retweet":{
+         "text":"Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna batu bersurat je.",
+         "id":"211491980654559232",
+         "user":{
+            "name":"nisa asnisah ",
+            "url":"http://blogakulaa93.blogspot.com",
+            "description":"i just be myself and i know who i'm .",
+            "location":"kajang , selangor",
+            "statuses_count":2871,
+            "followers_count":184,
+            "friends_count":291,
+            "screen_name":"nisackecoh",
+            "lang":"en",
+            "time_zone":"Kuala Lumpur",
+            "utc_offset":28800,
+            "id":241621945,
+            "id_str":"241621945",
+            "geo_enabled":true,
+            "created_at":"Sat, 22 Jan 2011 18:36:44 +0000"
+         },
+         "source":"<a href=\"http://www.samsungmobile.com\" rel=\"nofollow\">Samsung Mobile</a>",
+         "count":21,
+         "created_at":"Sat, 09 Jun 2012 16:16:32 +0000"
+      },
+      "retweeted":{
+         "id":"211491260995870721",
+         "user":{
+            "name":"TAUFIQ AKMAL\u2122",
+            "url":"http://www.facebook.com/taufiqakmal",
+            "description":"Photographer and Photo Editor at OSC Studio's. Always tweet about teenagers, love, habbits, politics and reality life. #ChelseaFC #TwtupJOHOR #JackmanSkeletor",
+            "location":"Cashew RD, Singapore",
+            "statuses_count":4859,
+            "followers_count":3208,
+            "friends_count":2585,
+            "screen_name":"TaufiqAkmals",
+            "lang":"en",
+            "time_zone":"Kuala Lumpur",
+            "utc_offset":28800,
+            "listed_count":1,
+            "id":388636925,
+            "id_str":"388636925",
+            "geo_enabled":true,
+            "created_at":"Tue, 11 Oct 2011 02:44:23 +0000"
+         },
+         "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "created_at":"Sat, 09 Jun 2012 16:13:40 +0000"
+      }
+   }
+},
+{
+   "demographic":{
+      "gender":"unisex"
+   },
+   "interaction":{
+      "source":"Twitter for BlackBerry\u00AE",
+      "author":{
+         "username":"safiahsann",
+         "name":"SI TEMBAM",
+         "id":438088816,
+         "avatar":"http://a0.twimg.com/profile_images/2288979715/IMG01513-20120607-1144_normal.jpg",
+         "link":"http://twitter.com/safiahsann"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:16:39 +0000",
+      "content":"RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...",
+      "id":"1e1b24e7e100ad80e074ea54c924acca",
+      "link":"http://twitter.com/safiahsann/statuses/211492013143633920"
+   },
+   "klout":{
+      "score":34
+   },
+   "language":{
+      "tag":"tl"
+   },
+   "twitter":{
+      "id":"211492013143633920",
+      "retweet":{
+         "text":"Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna batu bersurat je.",
+         "id":"211492013143633920",
+         "user":{
+            "name":"SI TEMBAM",
+            "url":"http://www.facebook.com/peawa",
+            "description":"BlackBerry user. Mylittlesis @meerahuda mybestfriend @waniefauzii \u2665",
+            "location":"Malaysia",
+            "statuses_count":4564,
+            "followers_count":252,
+            "friends_count":456,
+            "screen_name":"safiahsann",
+            "lang":"en",
+            "time_zone":"Kuala Lumpur",
+            "utc_offset":28800,
+            "id":438088816,
+            "id_str":"438088816",
+            "geo_enabled":true,
+            "created_at":"Fri, 16 Dec 2011 05:09:31 +0000"
+         },
+         "source":"<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00AE</a>",
+         "count":22,
+         "created_at":"Sat, 09 Jun 2012 16:16:39 +0000"
+      },
+      "retweeted":{
+         "id":"211491260995870721",
+         "user":{
+            "name":"TAUFIQ AKMAL\u2122",
+            "url":"http://www.facebook.com/taufiqakmal",
+            "description":"Photographer and Photo Editor at OSC Studio's. Always tweet about teenagers, love, habbits, politics and reality life. #ChelseaFC #TwtupJOHOR #JackmanSkeletor",
+            "location":"Cashew RD, Singapore",
+            "statuses_count":4859,
+            "followers_count":3208,
+            "friends_count":2585,
+            "screen_name":"TaufiqAkmals",
+            "lang":"en",
+            "time_zone":"Kuala Lumpur",
+            "utc_offset":28800,
+            "listed_count":1,
+            "id":388636925,
+            "id_str":"388636925",
+            "geo_enabled":true,
+            "created_at":"Tue, 11 Oct 2011 02:44:23 +0000"
+         },
+         "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "created_at":"Sat, 09 Jun 2012 16:13:40 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"web",
+      "author":{
+         "username":"maisarayusof",
+         "name":"SMY Yusof \u00AE",
+         "id":398557428,
+         "avatar":"http://a0.twimg.com/profile_images/2201090191/foto0070_normal.jpg",
+         "link":"http://twitter.com/maisarayusof"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:16:43 +0000",
+      "content":"RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...",
+      "id":"1e1b24e80726a780e074e689d89cf824",
+      "link":"http://twitter.com/maisarayusof/statuses/211492027211329537"
+   },
+   "klout":{
+      "score":17
+   },
+   "language":{
+      "tag":"tl"
+   },
+   "twitter":{
+      "id":"211492027211329537",
+      "retweet":{
+         "text":"Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna batu bersurat je.",
+         "id":"211492027211329537",
+         "user":{
+            "name":"SMY Yusof \u00AE",
+            "url":"http://www.facebook.com/",
+            "description":"I'm proud to be muslim. btw, just call me mai and thank you :) #TeamPMR2013\r\n\r\n",
+            "location":"bukit jalil ",
+            "statuses_count":327,
+            "followers_count":102,
+            "friends_count":108,
+            "screen_name":"maisarayusof",
+            "lang":"en",
+            "time_zone":"Beijing",
+            "utc_offset":28800,
+            "id":398557428,
+            "id_str":"398557428",
+            "created_at":"Wed, 26 Oct 2011 07:09:11 +0000"
+         },
+         "source":"web",
+         "count":23,
+         "created_at":"Sat, 09 Jun 2012 16:16:43 +0000"
+      },
+      "retweeted":{
+         "id":"211491260995870721",
+         "user":{
+            "name":"TAUFIQ AKMAL\u2122",
+            "url":"http://www.facebook.com/taufiqakmal",
+            "description":"Photographer and Photo Editor at OSC Studio's. Always tweet about teenagers, love, habbits, politics and reality life. #ChelseaFC #TwtupJOHOR #JackmanSkeletor",
+            "location":"Cashew RD, Singapore",
+            "statuses_count":4859,
+            "followers_count":3208,
+            "friends_count":2585,
+            "screen_name":"TaufiqAkmals",
+            "lang":"en",
+            "time_zone":"Kuala Lumpur",
+            "utc_offset":28800,
+            "listed_count":1,
+            "id":388636925,
+            "id_str":"388636925",
+            "geo_enabled":true,
+            "created_at":"Tue, 11 Oct 2011 02:44:23 +0000"
+         },
+         "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "created_at":"Sat, 09 Jun 2012 16:13:40 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"Twitter for Android",
+      "author":{
+         "username":"wanwaann",
+         "name":"\u6D01\u5A49",
+         "id":265450915,
+         "avatar":"http://a0.twimg.com/profile_images/2292278455/x40p1dW1_normal",
+         "link":"http://twitter.com/wanwaann"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:16:43 +0000",
+      "content":"RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...",
+      "id":"1e1b24e80726a780e07475cfc6690a5c",
+      "link":"http://twitter.com/wanwaann/statuses/211492029182644224"
+   },
+   "klout":{
+      "score":41
+   },
+   "language":{
+      "tag":"tl"
+   },
+   "twitter":{
+      "id":"211492029182644224",
+      "retweet":{
+         "text":"Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna batu bersurat je.",
+         "id":"211492029182644224",
+         "user":{
+            "name":"\u6D01\u5A49",
+            "url":"http://namakutaklengkaptanpanur.blogspot.com/",
+            "description":"Percayalah setiap yang terjadi ada hikmah disebaliknya, jangan menyalahkan takdir, kita hanya mampu berdoa :)",
+            "location":"malaysia",
+            "statuses_count":11411,
+            "followers_count":303,
+            "friends_count":212,
+            "screen_name":"wanwaann",
+            "lang":"en",
+            "time_zone":"Alaska",
+            "utc_offset":-32400,
+            "id":265450915,
+            "id_str":"265450915",
+            "geo_enabled":true,
+            "created_at":"Sun, 13 Mar 2011 15:23:33 +0000"
+         },
+         "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "count":24,
+         "created_at":"Sat, 09 Jun 2012 16:16:43 +0000"
+      },
+      "retweeted":{
+         "id":"211491260995870721",
+         "user":{
+            "name":"TAUFIQ AKMAL\u2122",
+            "url":"http://www.facebook.com/taufiqakmal",
+            "description":"Photographer and Photo Editor at OSC Studio's. Always tweet about teenagers, love, habbits, politics and reality life. #ChelseaFC #TwtupJOHOR #JackmanSkeletor",
+            "location":"Cashew RD, Singapore",
+            "statuses_count":4859,
+            "followers_count":3208,
+            "friends_count":2585,
+            "screen_name":"TaufiqAkmals",
+            "lang":"en",
+            "time_zone":"Kuala Lumpur",
+            "utc_offset":28800,
+            "listed_count":1,
+            "id":388636925,
+            "id_str":"388636925",
+            "geo_enabled":true,
+            "created_at":"Tue, 11 Oct 2011 02:44:23 +0000"
+         },
+         "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "created_at":"Sat, 09 Jun 2012 16:13:40 +0000"
+      }
+   }
+},
+{
+   "demographic":{
+      "gender":"male"
+   },
+   "interaction":{
+      "source":"Twitter for Android",
+      "author":{
+         "username":"2630DCinc",
+         "name":"Danial Wannaloveyou",
+         "id":74115473,
+         "avatar":"http://a0.twimg.com/profile_images/2202090384/image_normal.jpg",
+         "link":"http://twitter.com/2630DCinc"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:16:43 +0000",
+      "content":"Heading home now before going to a coffeeshop nearby to watch the EURO12 Hollad-Germany match:))",
+      "id":"1e1b24e80726a780e074579b6eaf700c",
+      "link":"http://twitter.com/2630DCinc/statuses/211492027903385602"
+   },
+   "klout":{
+      "score":19
+   },
+   "language":{
+      "tag":"en"
+   },
+   "salience":{
+      "content":{
+         "sentiment":3
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:16:43 +0000",
+      "id":"211492027903385602",
+      "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "text":"Heading home now before going to a coffeeshop nearby to watch the EURO12 Hollad-Germany match:))",
+      "user":{
+         "name":"Danial Wannaloveyou",
+         "description":"Easy-going/Peacemaker/Soft-Hearted/Understanding/Always give in/Other before self/Love Blue/Chelsea ",
+         "location":"Singapore",
+         "statuses_count":1334,
+         "followers_count":217,
+         "friends_count":337,
+         "screen_name":"2630DCinc",
+         "lang":"en",
+         "time_zone":"Singapore",
+         "utc_offset":28800,
+         "id":74115473,
+         "id_str":"74115473",
+         "geo_enabled":true,
+         "created_at":"Mon, 14 Sep 2009 09:13:47 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"Twitter for Android",
+      "author":{
+         "username":"IraMazli",
+         "name":"Eyra Mazli",
+         "id":83086465,
+         "avatar":"http://a0.twimg.com/profile_images/2283562444/V23p4aKA_normal",
+         "link":"http://twitter.com/IraMazli"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:16:44 +0000",
+      "content":"RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...",
+      "id":"1e1b24e810afae00e0744ed912b870a0",
+      "link":"http://twitter.com/IraMazli/statuses/211492032697475072"
+   },
+   "klout":{
+      "score":26
+   },
+   "language":{
+      "tag":"tl"
+   },
+   "twitter":{
+      "id":"211492032697475072",
+      "retweet":{
+         "text":"Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna batu bersurat je.",
+         "id":"211492032697475072",
+         "user":{
+            "name":"Eyra Mazli",
+            "description":"The one and only daughter in the family. Such an egoistic person.",
+            "statuses_count":2538,
+            "followers_count":180,
+            "friends_count":219,
+            "screen_name":"IraMazli",
+            "lang":"en",
+            "time_zone":"Alaska",
+            "utc_offset":-32400,
+            "id":83086465,
+            "id_str":"83086465",
+            "geo_enabled":true,
+            "created_at":"Sat, 17 Oct 2009 08:09:29 +0000"
+         },
+         "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "count":25,
+         "created_at":"Sat, 09 Jun 2012 16:16:44 +0000"
+      },
+      "retweeted":{
+         "id":"211491260995870721",
+         "user":{
+            "name":"TAUFIQ AKMAL\u2122",
+            "url":"http://www.facebook.com/taufiqakmal",
+            "description":"Photographer and Photo Editor at OSC Studio's. Always tweet about teenagers, love, habbits, politics and reality life. #ChelseaFC #TwtupJOHOR #JackmanSkeletor",
+            "location":"Cashew RD, Singapore",
+            "statuses_count":4859,
+            "followers_count":3208,
+            "friends_count":2585,
+            "screen_name":"TaufiqAkmals",
+            "lang":"en",
+            "time_zone":"Kuala Lumpur",
+            "utc_offset":28800,
+            "listed_count":1,
+            "id":388636925,
+            "id_str":"388636925",
+            "geo_enabled":true,
+            "created_at":"Tue, 11 Oct 2011 02:44:23 +0000"
+         },
+         "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "created_at":"Sat, 09 Jun 2012 16:13:40 +0000"
+      }
+   }
+},
+{
+   "demographic":{
+      "gender":"male"
+   },
+   "interaction":{
+      "source":"TweetCaster for Android",
+      "author":{
+         "username":"manfredpan",
+         "name":"Manfred Pan",
+         "id":108541594,
+         "avatar":"http://a0.twimg.com/profile_images/656152079/SI854416a_normal.jpg",
+         "link":"http://twitter.com/manfredpan"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:16:48 +0000",
+      "content":"Apologies i meant #starhub in my previous post. Been drawing natural word links between singtel n screw-ups in recent times",
+      "id":"1e1b24e836d5a800e0749c45a722f43c",
+      "link":"http://twitter.com/manfredpan/statuses/211492050179330048"
+   },
+   "klout":{
+      "score":12
+   },
+   "language":{
+      "tag":"af"
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:16:48 +0000",
+      "id":"211492050179330048",
+      "source":"<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+      "text":"Apologies i meant #starhub in my previous post. Been drawing natural word links between singtel n screw-ups in recent times",
+      "user":{
+         "name":"Manfred Pan",
+         "description":"Travel. Good food. Manchester United.",
+         "location":"Singapore",
+         "statuses_count":1263,
+         "followers_count":78,
+         "friends_count":119,
+         "screen_name":"manfredpan",
+         "lang":"en",
+         "time_zone":"Singapore",
+         "utc_offset":28800,
+         "listed_count":5,
+         "id":108541594,
+         "id_str":"108541594",
+         "created_at":"Tue, 26 Jan 2010 07:32:18 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"Google",
+      "author":{
+         "username":"AdrianLee",
+         "name":"AdrianLee",
+         "id":8628952,
+         "avatar":"http://a0.twimg.com/profile_images/23895862/AdrianLee_normal.jpg",
+         "link":"http://twitter.com/AdrianLee"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:16:47 +0000",
+      "content":"3D Crystal iPhone Case for AT&amp;T Verizon Sprint Apple iPhone 4/4S Crystal Black Bow http://t.co/MiqZrK0o",
+      "id":"1e1b24e82d4ca180e0749a785de6dcf4",
+      "link":"http://twitter.com/AdrianLee/statuses/211492044387000320"
+   },
+   "klout":{
+      "score":11
+   },
+   "language":{
+      "tag":"en"
+   },
+   "links":{
+      "created_at":[
+         "Sat, 09 Jun 2012 16:17:06 +0000"
+      ],
+      "retweet_count":[
+         0
+      ],
+      "title":[
+         "iPhone Case Blog Shop \u00BB 3D Crystal iPhone Case for AT&T Verizon Sprint Apple iPhone 4/4S Crystal Black Bow"
+      ],
+      "url":[
+         "http://iphonecaseblogshop.com/3d-crystal-iphone-case-for-att-verizon-sprint-apple-iphone-44s-crystal-black-bow/"
+      ]
+   },
+   "salience":{
+      "content":{
+         "sentiment":0
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:16:47 +0000",
+      "domains":[
+         "goo.gl"
+      ],
+      "id":"211492044387000320",
+      "links":[
+         "http://goo.gl/fb/s9tXS"
+      ],
+      "source":"<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>",
+      "text":"3D Crystal iPhone Case for AT&amp;T Verizon Sprint Apple iPhone 4/4S Crystal Black Bow http://t.co/MiqZrK0o",
+      "user":{
+         "name":"AdrianLee",
+         "url":"http://videolane.com",
+         "description":"Business Owner, Entrepreneur, Videography Trainer, Internet Marketer, Business Networker, Investor, Former President of BNI Rendezvous, Father of Two.",
+         "location":"Singapore",
+         "statuses_count":2013,
+         "followers_count":1515,
+         "friends_count":1920,
+         "screen_name":"AdrianLee",
+         "lang":"en",
+         "time_zone":"Singapore",
+         "utc_offset":28800,
+         "listed_count":15,
+         "id":8628952,
+         "id_str":"8628952",
+         "geo_enabled":true,
+         "created_at":"Mon, 03 Sep 2007 18:44:22 +0000"
+      }
+   }
+},
+{
+   "demographic":{
+      "gender":"mostly_female"
+   },
+   "interaction":{
+      "source":"web",
+      "author":{
+         "username":"Lipstickdesire_",
+         "name":"\u262E Ashley chau \u2020",
+         "id":234676172,
+         "avatar":"http://a0.twimg.com/profile_images/2237683532/JHGJHKGJ_normal.jpg",
+         "link":"http://twitter.com/Lipstickdesire_"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:16:51 +0000",
+      "content":"@AHNEHH HAHHAHAH err nokia lumia 800",
+      "id":"1e1b24e85371ab80e07488312867e8fe",
+      "link":"http://twitter.com/Lipstickdesire_/statuses/211492063454298112"
+   },
+   "klout":{
+      "score":38
+   },
+   "language":{
+      "tag":"tl"
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:16:51 +0000",
+      "id":"211492063454298112",
+      "in_reply_to_screen_name":"AHNEHH",
+      "in_reply_to_status_id":"211491943287496706",
+      "in_reply_to_user_id":"228617752",
+      "mentions":[
+         "AHNEHH"
+      ],
+      "source":"web",
+      "text":"@AHNEHH HAHHAHAH err nokia lumia 800",
+      "user":{
+         "name":"\u262E Ashley chau \u2020",
+         "url":"https://www.facebook.com/profile.php?id=100000975986869",
+         "description":"Town girl , huge fan of the autumn .\r\nI am not the kind of girl you think i am \u262E",
+         "location":"Singapore",
+         "statuses_count":11411,
+         "followers_count":174,
+         "friends_count":83,
+         "screen_name":"Lipstickdesire_",
+         "lang":"en",
+         "time_zone":"Alaska",
+         "utc_offset":-32400,
+         "id":234676172,
+         "id_str":"234676172",
+         "geo_enabled":true,
+         "created_at":"Thu, 06 Jan 2011 08:18:38 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"Twitter for Android",
+      "author":{
+         "username":"Vintagerosesz",
+         "name":"Zaylee's",
+         "id":424102646,
+         "avatar":"http://a0.twimg.com/profile_images/2290100777/image_normal.jpg",
+         "link":"http://twitter.com/Vintagerosesz"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:16:54 +0000",
+      "content":"Oh my! I lost my samsung charger",
+      "id":"1e1b24e8700daf00e074e345605e4428",
+      "link":"http://twitter.com/Vintagerosesz/statuses/211492072832765952"
+   },
+   "klout":{
+      "score":36
+   },
+   "language":{
+      "tag":"en"
+   },
+   "salience":{
+      "content":{
+         "sentiment":-3
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:16:54 +0000",
+      "id":"211492072832765952",
+      "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "text":"Oh my! I lost my samsung charger",
+      "user":{
+         "name":"Zaylee's",
+         "url":"http://slutsandbitches.blogspot.com",
+         "description":"I'm easily annoyed and jealous over small stuffs. Dont think you know me well , cause i dont even know myself.",
+         "location":"Singapore. ",
+         "statuses_count":6398,
+         "followers_count":267,
+         "friends_count":910,
+         "screen_name":"Vintagerosesz",
+         "lang":"en",
+         "time_zone":"Singapore",
+         "utc_offset":28800,
+         "id":424102646,
+         "id_str":"424102646",
+         "created_at":"Tue, 29 Nov 2011 09:56:26 +0000"
+      }
+   }
+},
+{
+   "demographic":{
+      "gender":"male"
+   },
+   "interaction":{
+      "source":"Twitter for iPhone",
+      "author":{
+         "username":"AhMooose",
+         "name":"Amos Choy Xian Hao",
+         "id":308382115,
+         "avatar":"http://a0.twimg.com/profile_images/1375937672/167776_10150112118712145_545057144_6287350_5024062_n_normal.jpg",
+         "link":"http://twitter.com/AhMooose"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:17:10 +0000",
+      "content":"@Cw_Gone miotv have euros?",
+      "id":"1e1b24e908a4a700e074ec27e1516d72",
+      "link":"http://twitter.com/AhMooose/statuses/211492143141888001"
+   },
+   "klout":{
+      "score":28
+   },
+   "language":{
+      "tag":"pt"
+   },
+   "salience":{
+      "content":{
+         "sentiment":0
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:17:10 +0000",
+      "id":"211492143141888001",
+      "in_reply_to_screen_name":"Cw_Gone",
+      "in_reply_to_status_id":"211491811972235264",
+      "in_reply_to_user_id":"122983335",
+      "mentions":[
+         "Cw_Gone"
+      ],
+      "source":"<a href=\"http://twitter.com/#!/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "text":"@Cw_Gone miotv have euros?",
+      "user":{
+         "name":"Amos Choy Xian Hao",
+         "description":"Hardwork beats talent when talent fails to work hard :)",
+         "location":"Singapore",
+         "statuses_count":3645,
+         "followers_count":168,
+         "friends_count":134,
+         "screen_name":"AhMooose",
+         "lang":"en",
+         "time_zone":"Alaska",
+         "utc_offset":-32400,
+         "listed_count":1,
+         "id":308382115,
+         "id_str":"308382115",
+         "created_at":"Tue, 31 May 2011 09:35:59 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"TweetDeck",
+      "author":{
+         "username":"schafiera",
+         "name":"\u265BOrdinary girl \u265B",
+         "id":410753911,
+         "avatar":"http://a0.twimg.com/profile_images/2286260032/pE2uXmFt_normal",
+         "link":"http://twitter.com/schafiera"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:17:16 +0000",
+      "content":"RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...",
+      "id":"1e1b24e941dcae00e074a23fbf7c64e6",
+      "link":"http://twitter.com/schafiera/statuses/211492165174558720"
+   },
+   "klout":{
+      "score":30
+   },
+   "language":{
+      "tag":"tl"
+   },
+   "twitter":{
+      "id":"211492165174558720",
+      "retweet":{
+         "text":"Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna batu bersurat je.",
+         "id":"211492165174558720",
+         "user":{
+            "name":"\u265BOrdinary girl \u265B",
+            "url":"http://m.facebook.com/profile.php?refid=8",
+            "description":"I'm not so good in English . If I do something wrong just tegur2 lahhh ! I'm 13y/o .stay Johor bahru . SMK SRI RAHMAT is my school \u2661",
+            "location":"Malaysia",
+            "statuses_count":5604,
+            "followers_count":239,
+            "friends_count":257,
+            "screen_name":"schafiera",
+            "lang":"en",
+            "id":410753911,
+            "id_str":"410753911",
+            "geo_enabled":true,
+            "created_at":"Sat, 12 Nov 2011 14:33:26 +0000"
+         },
+         "source":"<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+         "count":27,
+         "created_at":"Sat, 09 Jun 2012 16:17:16 +0000"
+      },
+      "retweeted":{
+         "id":"211491260995870721",
+         "user":{
+            "name":"TAUFIQ AKMAL\u2122",
+            "url":"http://www.facebook.com/taufiqakmal",
+            "description":"Photographer and Photo Editor at OSC Studio's. Always tweet about teenagers, love, habbits, politics and reality life. #ChelseaFC #TwtupJOHOR #JackmanSkeletor",
+            "location":"Cashew RD, Singapore",
+            "statuses_count":4859,
+            "followers_count":3208,
+            "friends_count":2585,
+            "screen_name":"TaufiqAkmals",
+            "lang":"en",
+            "time_zone":"Kuala Lumpur",
+            "utc_offset":28800,
+            "listed_count":1,
+            "id":388636925,
+            "id_str":"388636925",
+            "geo_enabled":true,
+            "created_at":"Tue, 11 Oct 2011 02:44:23 +0000"
+         },
+         "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "created_at":"Sat, 09 Jun 2012 16:13:40 +0000"
+      }
+   }
+},
+{
+   "demographic":{
+      "gender":"male"
+   },
+   "interaction":{
+      "source":"web",
+      "author":{
+         "username":"WieShim",
+         "name":"Insyirah Hashim",
+         "id":421196043,
+         "avatar":"http://a0.twimg.com/profile_images/2291928594/a1szed9lgpqrkepk7tfc_normal.jpeg",
+         "link":"http://twitter.com/WieShim"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:17:17 +0000",
+      "content":"RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...",
+      "id":"1e1b24e94b66a480e0746a0c02aa390a",
+      "link":"http://twitter.com/WieShim/statuses/211492172506206210"
+   },
+   "klout":{
+      "score":36
+   },
+   "language":{
+      "tag":"tl"
+   },
+   "twitter":{
+      "id":"211492172506206210",
+      "retweet":{
+         "text":"Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna batu bersurat je.",
+         "id":"211492172506206210",
+         "user":{
+            "name":"Insyirah Hashim",
+            "description":"Every morning . Every afternoon . Every evening . Every night!! Your face in my mind!!! @WieShim !! tumbuk kang!! Me love you :D - @dDyBravadio",
+            "statuses_count":8713,
+            "followers_count":93,
+            "friends_count":307,
+            "screen_name":"WieShim",
+            "lang":"en",
+            "time_zone":"Alaska",
+            "utc_offset":-32400,
+            "id":421196043,
+            "id_str":"421196043",
+            "created_at":"Fri, 25 Nov 2011 16:40:35 +0000"
+         },
+         "source":"web",
+         "count":28,
+         "created_at":"Sat, 09 Jun 2012 16:17:17 +0000"
+      },
+      "retweeted":{
+         "id":"211491260995870721",
+         "user":{
+            "name":"TAUFIQ AKMAL\u2122",
+            "url":"http://www.facebook.com/taufiqakmal",
+            "description":"Photographer and Photo Editor at OSC Studio's. Always tweet about teenagers, love, habbits, politics and reality life. #ChelseaFC #TwtupJOHOR #JackmanSkeletor",
+            "location":"Cashew RD, Singapore",
+            "statuses_count":4859,
+            "followers_count":3208,
+            "friends_count":2585,
+            "screen_name":"TaufiqAkmals",
+            "lang":"en",
+            "time_zone":"Kuala Lumpur",
+            "utc_offset":28800,
+            "listed_count":1,
+            "id":388636925,
+            "id_str":"388636925",
+            "geo_enabled":true,
+            "created_at":"Tue, 11 Oct 2011 02:44:23 +0000"
+         },
+         "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "created_at":"Sat, 09 Jun 2012 16:13:40 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"Twitter for iPhone",
+      "author":{
+         "username":"JeonJL",
+         "name":"WinterDesire_",
+         "id":250128879,
+         "avatar":"http://a0.twimg.com/profile_images/2201673524/image_normal.jpg",
+         "link":"http://twitter.com/JeonJL"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:17:19 +0000",
+      "content":"@BulBulPOP yeap. Wa Lu. The coffeeshop at my house the mall there never show ..",
+      "id":"1e1b24e95e79a180e0746776a3603816",
+      "link":"http://twitter.com/JeonJL/statuses/211492180987101185"
+   },
+   "klout":{
+      "score":27
+   },
+   "language":{
+      "tag":"en"
+   },
+   "salience":{
+      "content":{
+         "sentiment":0
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:17:19 +0000",
+      "id":"211492180987101185",
+      "in_reply_to_screen_name":"BulBulPOP",
+      "in_reply_to_status_id":"211487966172946432",
+      "in_reply_to_user_id":"169043045",
+      "mentions":[
+         "BulBulPOP"
+      ],
+      "source":"<a href=\"http://twitter.com/#!/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "text":"@BulBulPOP yeap. Wa Lu. The coffeeshop at my house the mall there never show ..",
+      "user":{
+         "name":"WinterDesire_",
+         "description":"i eat alot ; i am Pig No.1 :B \uE10B 130311 \uE022 Desiring for winter as only then, will i be able to see you again~ \uE048 #SkillsTtKill",
+         "location":"Singapore",
+         "statuses_count":10323,
+         "followers_count":130,
+         "friends_count":98,
+         "screen_name":"JeonJL",
+         "lang":"en",
+         "time_zone":"Alaska",
+         "utc_offset":-32400,
+         "id":250128879,
+         "id_str":"250128879",
+         "created_at":"Thu, 10 Feb 2011 13:46:21 +0000"
+      }
+   }
+},
+{
+   "demographic":{
+      "gender":"mostly_female"
+   },
+   "interaction":{
+      "source":"UberSocial for BlackBerry",
+      "author":{
+         "username":"meeraJaafar",
+         "name":"Nur \u0394mira",
+         "id":189988578,
+         "avatar":"http://a0.twimg.com/profile_images/2211251717/hah_ben_3-000_normal.JPG",
+         "link":"http://twitter.com/meeraJaafar"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:17:32 +0000",
+      "content":"RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...",
+      "id":"1e1b24e9da73a600e0748a67e9a20cf4",
+      "link":"http://twitter.com/meeraJaafar/statuses/211492231809474561"
+   },
+   "klout":{
+      "score":35
+   },
+   "language":{
+      "tag":"tl"
+   },
+   "twitter":{
+      "id":"211492231809474561",
+      "retweet":{
+         "text":"Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna batu bersurat je.",
+         "id":"211492231809474561",
+         "user":{
+            "name":"Nur \u0394mira",
+            "description":"The Ministry Of Young Magician \u2764 Forever Enchancers :)",
+            "location":"Putrajaya,Malaysia",
+            "statuses_count":4783,
+            "followers_count":245,
+            "friends_count":134,
+            "screen_name":"meeraJaafar",
+            "lang":"en",
+            "time_zone":"Kuala Lumpur",
+            "utc_offset":28800,
+            "id":189988578,
+            "id_str":"189988578",
+            "geo_enabled":true,
+            "created_at":"Sun, 12 Sep 2010 19:47:35 +0000"
+         },
+         "source":"<a href=\"http://ubersocial.com\" rel=\"nofollow\">UberSocial for BlackBerry</a>",
+         "count":29,
+         "created_at":"Sat, 09 Jun 2012 16:17:32 +0000"
+      },
+      "retweeted":{
+         "id":"211491260995870721",
+         "user":{
+            "name":"TAUFIQ AKMAL\u2122",
+            "url":"http://www.facebook.com/taufiqakmal",
+            "description":"Photographer and Photo Editor at OSC Studio's. Always tweet about teenagers, love, habbits, politics and reality life. #ChelseaFC #TwtupJOHOR #JackmanSkeletor",
+            "location":"Cashew RD, Singapore",
+            "statuses_count":4880,
+            "followers_count":3208,
+            "friends_count":2585,
+            "screen_name":"TaufiqAkmals",
+            "lang":"en",
+            "time_zone":"Kuala Lumpur",
+            "utc_offset":28800,
+            "listed_count":1,
+            "id":388636925,
+            "id_str":"388636925",
+            "geo_enabled":true,
+            "created_at":"Tue, 11 Oct 2011 02:44:23 +0000"
+         },
+         "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "created_at":"Sat, 09 Jun 2012 16:13:40 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"UberSocial for Android",
+      "author":{
+         "username":"illpills",
+         "name":"Hider",
+         "id":287653545,
+         "avatar":"http://a0.twimg.com/profile_images/2286649068/rsbfjxnwab89cr9mvox5_normal.jpeg",
+         "link":"http://twitter.com/illpills"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:17:43 +0000",
+      "content":"RT @DiyanahMNoor RT @Alifology: Those of you who don't like football tweets, too bad ah. We're gonna flood about Euro the whole month.",
+      "id":"1e1b24ea435aad80e074f180e533c328",
+      "link":"http://twitter.com/illpills/statuses/211492278215258112"
+   },
+   "klout":{
+      "score":36
+   },
+   "language":{
+      "tag":"en"
+   },
+   "salience":{
+      "content":{
+         "sentiment":-5
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:17:43 +0000",
+      "id":"211492278215258112",
+      "mentions":[
+         "DiyanahMNoor",
+         "Alifology"
+      ],
+      "source":"<a href=\"http://ubersocial.com\" rel=\"nofollow\">UberSocial for Android</a>",
+      "text":"RT @DiyanahMNoor RT @Alifology: Those of you who don't like football tweets, too bad ah. We're gonna flood about Euro the whole month.",
+      "user":{
+         "name":"Hider",
+         "url":"http://illpills.tumblr.com/",
+         "description":"^_^.",
+         "location":"Singapore City",
+         "statuses_count":14535,
+         "followers_count":193,
+         "friends_count":200,
+         "screen_name":"illpills",
+         "lang":"en",
+         "time_zone":"Singapore",
+         "utc_offset":28800,
+         "id":287653545,
+         "id_str":"287653545",
+         "created_at":"Mon, 25 Apr 2011 12:27:34 +0000"
+      }
+   }
+},
+{
+   "demographic":{
+      "gender":"mostly_male"
+   },
+   "interaction":{
+      "source":"web",
+      "author":{
+         "username":"JingQuanSoh",
+         "name":"Jing Quan Soh",
+         "id":346487581,
+         "avatar":"http://a0.twimg.com/profile_images/2292798455/g5jfrjvbc75zthcgsq45_normal.jpeg",
+         "link":"http://twitter.com/JingQuanSoh"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:18:05 +0000",
+      "content":"Samsung Galaxy S3 (Y)",
+      "id":"1e1b24eb1529ac80e074c9e6eda55d5c",
+      "link":"http://twitter.com/JingQuanSoh/statuses/211492371450437632"
+   },
+   "klout":{
+      "score":30
+   },
+   "language":{
+      "tag":"tl"
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:18:05 +0000",
+      "id":"211492371450437632",
+      "source":"web",
+      "text":"Samsung Galaxy S3 (Y)",
+      "user":{
+         "name":"Jing Quan Soh",
+         "description":"\u6211\u8FD8\u5728\u8FD9\u91CC\u7B49\u7740\u4F60\uFF0C\u5E0C\u671B\u6709\u4E00\u5929\u4F60\u4F1A\u770B\u5230\u6211\u3002It's time for me to take my leave, shouldn't have bother u....",
+         "location":"Singapore",
+         "statuses_count":12441,
+         "followers_count":98,
+         "friends_count":90,
+         "screen_name":"JingQuanSoh",
+         "lang":"en",
+         "time_zone":"Singapore",
+         "utc_offset":28800,
+         "id":346487581,
+         "id_str":"346487581",
+         "geo_enabled":true,
+         "created_at":"Mon, 01 Aug 2011 10:26:16 +0000"
+      }
+   }
+},
+{
+   "demographic":{
+      "gender":"female"
+   },
+   "interaction":{
+      "source":"web",
+      "author":{
+         "username":"twistedmeanings",
+         "name":"Esther Lam",
+         "id":348484380,
+         "avatar":"http://a0.twimg.com/profile_images/1480669837/39686_454086776353_758236353_6314377_4588417_n_normal.jpg",
+         "link":"http://twitter.com/twistedmeanings"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:18:07 +0000",
+      "content":"HP exhibition is good for a HP fan :D",
+      "id":"1e1b24eb283ca980e0744d4c4dc505e6",
+      "link":"http://twitter.com/twistedmeanings/statuses/211492382431117312"
+   },
+   "klout":{
+      "score":13
+   },
+   "language":{
+      "tag":"en"
+   },
+   "salience":{
+      "content":{
+         "sentiment":5
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:18:07 +0000",
+      "id":"211492382431117312",
+      "source":"web",
+      "text":"HP exhibition is good for a HP fan :D",
+      "user":{
+         "name":"Esther Lam",
+         "url":"http://dreamsof-reality.tumblr.com",
+         "location":"Singapore",
+         "statuses_count":1916,
+         "followers_count":31,
+         "friends_count":82,
+         "screen_name":"twistedmeanings",
+         "lang":"en",
+         "id":348484380,
+         "id_str":"348484380",
+         "created_at":"Thu, 04 Aug 2011 14:20:06 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"Twitter for BlackBerry\u00AE",
+      "author":{
+         "username":"fhanaAG",
+         "name":"HANALCi\u2665uS",
+         "id":311370669,
+         "avatar":"http://a0.twimg.com/profile_images/2291123287/abc.png_normal.rem",
+         "link":"http://twitter.com/fhanaAG"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:18:11 +0000",
+      "content":"RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...",
+      "id":"1e1b24eb4e62a380e0745e6b63383110",
+      "link":"http://twitter.com/fhanaAG/statuses/211492396318470144"
+   },
+   "klout":{
+      "score":39
+   },
+   "language":{
+      "tag":"tl"
+   },
+   "twitter":{
+      "id":"211492396318470144",
+      "retweet":{
+         "text":"Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna batu bersurat je.",
+         "id":"211492396318470144",
+         "user":{
+            "name":"HANALCi\u2665uS",
+            "description":"its my world and my decision. \r 21DF7702 x) \r dear twitterer please be nice.",
+            "location":"im in ur mind ;)",
+            "statuses_count":3334,
+            "followers_count":165,
+            "friends_count":151,
+            "screen_name":"fhanaAG",
+            "lang":"en",
+            "time_zone":"Kuala Lumpur",
+            "utc_offset":28800,
+            "id":311370669,
+            "id_str":"311370669",
+            "geo_enabled":true,
+            "created_at":"Sun, 05 Jun 2011 10:14:30 +0000"
+         },
+         "source":"<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00AE</a>",
+         "count":29,
+         "created_at":"Sat, 09 Jun 2012 16:18:11 +0000"
+      },
+      "retweeted":{
+         "id":"211491260995870721",
+         "user":{
+            "name":"TAUFIQ AKMAL\u2122",
+            "url":"http://www.facebook.com/taufiqakmal",
+            "description":"Photographer and Photo Editor at OSC Studio's. Always tweet about teenagers, love, habbits, politics and reality life. #ChelseaFC #TwtupJOHOR #JackmanSkeletor",
+            "location":"Cashew RD, Singapore",
+            "statuses_count":4880,
+            "followers_count":3208,
+            "friends_count":2585,
+            "screen_name":"TaufiqAkmals",
+            "lang":"en",
+            "time_zone":"Kuala Lumpur",
+            "utc_offset":28800,
+            "listed_count":1,
+            "id":388636925,
+            "id_str":"388636925",
+            "geo_enabled":true,
+            "created_at":"Tue, 11 Oct 2011 02:44:23 +0000"
+         },
+         "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "created_at":"Sat, 09 Jun 2012 16:13:40 +0000"
+      }
+   }
+},
+{
+   "demographic":{
+      "gender":"mostly_male"
+   },
+   "interaction":{
+      "source":"web",
+      "author":{
+         "username":"riddle__me",
+         "name":"Delwyn",
+         "id":16820391,
+         "avatar":"http://a0.twimg.com/profile_images/1890293510/426092_3071453339889_1070294760_2891504_645008904_n_normal.jpg",
+         "link":"http://twitter.com/riddle__me"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:18:18 +0000",
+      "content":"@jleo96 TIU I WANT MY WINDOWS PHONE REPAIRED",
+      "id":"1e1b24eb9124a100e0740f29a3a58c22",
+      "link":"http://twitter.com/riddle__me/statuses/211492425967996929"
+   },
+   "klout":{
+      "score":31
+   },
+   "language":{
+      "tag":"en"
+   },
+   "salience":{
+      "content":{
+         "sentiment":0
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:18:18 +0000",
+      "id":"211492425967996929",
+      "in_reply_to_screen_name":"jleo96",
+      "in_reply_to_status_id":"211491213184999424",
+      "in_reply_to_user_id":"214475289",
+      "mentions":[
+         "jleo96"
+      ],
+      "source":"web",
+      "text":"@jleo96 TIU I WANT MY WINDOWS PHONE REPAIRED",
+      "user":{
+         "name":"Delwyn",
+         "description":"call me maybe? (:",
+         "location":"Singapore",
+         "statuses_count":13108,
+         "followers_count":170,
+         "friends_count":480,
+         "screen_name":"riddle__me",
+         "lang":"en",
+         "time_zone":"Singapore",
+         "utc_offset":28800,
+         "listed_count":1,
+         "id":16820391,
+         "id_str":"16820391",
+         "created_at":"Fri, 17 Oct 2008 04:49:41 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"Samsung Mobile",
+      "author":{
+         "username":"syaaains",
+         "name":"syaaAin\u2665",
+         "id":369409991,
+         "avatar":"http://a0.twimg.com/profile_images/2285822831/Photo0195E001E001E001H_normal.jpg",
+         "link":"http://twitter.com/syaaains"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:18:14 +0000",
+      "content":"RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...",
+      "id":"1e1b24eb6afea700e0747c85f3e9fb88",
+      "link":"http://twitter.com/syaaains/statuses/211492410222583810"
+   },
+   "klout":{
+      "score":31
+   },
+   "language":{
+      "tag":"tl"
+   },
+   "twitter":{
+      "id":"211492410222583810",
+      "retweet":{
+         "text":"Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna batu bersurat je.",
+         "id":"211492410222583810",
+         "user":{
+            "name":"syaaAin\u2665",
+            "description":"Hye ;) I'm ain. 10.7.1996",
+            "location":"Kajang",
+            "statuses_count":2509,
+            "followers_count":315,
+            "friends_count":285,
+            "screen_name":"syaaains",
+            "lang":"en",
+            "time_zone":"Kuala Lumpur",
+            "utc_offset":28800,
+            "listed_count":1,
+            "id":369409991,
+            "id_str":"369409991",
+            "created_at":"Wed, 07 Sep 2011 09:29:05 +0000"
+         },
+         "source":"<a href=\"http://www.samsungmobile.com\" rel=\"nofollow\">Samsung Mobile</a>",
+         "count":30,
+         "created_at":"Sat, 09 Jun 2012 16:18:14 +0000"
+      },
+      "retweeted":{
+         "id":"211491260995870721",
+         "user":{
+            "name":"TAUFIQ AKMAL\u2122",
+            "url":"http://www.facebook.com/taufiqakmal",
+            "description":"Photographer and Photo Editor at OSC Studio's. Always tweet about teenagers, love, habbits, politics and reality life. #ChelseaFC #TwtupJOHOR #JackmanSkeletor",
+            "location":"Cashew RD, Singapore",
+            "statuses_count":4880,
+            "followers_count":3208,
+            "friends_count":2585,
+            "screen_name":"TaufiqAkmals",
+            "lang":"en",
+            "time_zone":"Kuala Lumpur",
+            "utc_offset":28800,
+            "listed_count":1,
+            "id":388636925,
+            "id_str":"388636925",
+            "geo_enabled":true,
+            "created_at":"Tue, 11 Oct 2011 02:44:23 +0000"
+         },
+         "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "created_at":"Sat, 09 Jun 2012 16:13:40 +0000"
+      }
+   }
+},
+{
+   "demographic":{
+      "gender":"unisex"
+   },
+   "interaction":{
+      "source":"Twitter for iPhone",
+      "author":{
+         "username":"L0v3Dr0ps",
+         "name":"Yu Yan",
+         "id":108012334,
+         "avatar":"http://a0.twimg.com/profile_images/2286143716/image_normal.jpg",
+         "link":"http://twitter.com/L0v3Dr0ps"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:18:31 +0000",
+      "content":"@StalkersINC Hmm, anyway, not looking forward to an iPhone. :P",
+      "id":"1e1b24ec0d1ea580e074df40c878dece",
+      "link":"http://twitter.com/L0v3Dr0ps/statuses/211492481370566657"
+   },
+   "klout":{
+      "score":27
+   },
+   "language":{
+      "tag":"en"
+   },
+   "salience":{
+      "content":{
+         "sentiment":0
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:18:31 +0000",
+      "id":"211492481370566657",
+      "in_reply_to_screen_name":"StalkersINC",
+      "in_reply_to_status_id":"211484720180109312",
+      "in_reply_to_user_id":"243142956",
+      "mentions":[
+         "StalkersINC"
+      ],
+      "source":"<a href=\"http://twitter.com/#!/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "text":"@StalkersINC Hmm, anyway, not looking forward to an iPhone. :P",
+      "user":{
+         "name":"Yu Yan",
+         "description":"Everything but God's love will change.",
+         "location":"Singapore",
+         "statuses_count":6383,
+         "followers_count":102,
+         "friends_count":92,
+         "screen_name":"L0v3Dr0ps",
+         "lang":"en",
+         "time_zone":"Singapore",
+         "utc_offset":28800,
+         "listed_count":2,
+         "id":108012334,
+         "id_str":"108012334",
+         "created_at":"Sun, 24 Jan 2010 14:24:41 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"twitterfeed",
+      "author":{
+         "username":"15ax2",
+         "name":"Make Money",
+         "id":280401532,
+         "avatar":"http://a0.twimg.com/profile_images/1309023856/2691565773_6bfa3b467c_normal.jpg",
+         "link":"http://twitter.com/15ax2"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:18:30 +0000",
+      "content":"Hollande: 4 French Soldiers, Interpreter Killed In Afghanistan: French President Francois Hollande mourned the d... http://t.co/HMFPsZrz",
+      "id":"1e1b24ec0394af00e074924342757fb0",
+      "link":"http://twitter.com/15ax2/statuses/211492476937187329"
+   },
+   "klout":{
+      "score":14
+   },
+   "language":{
+      "tag":"en"
+   },
+   "links":{
+      "created_at":[
+         "Sat, 02 Jun 2012 07:54:57 +0000"
+      ],
+      "retweet_count":[
+         149
+      ],
+      "title":[
+         ""
+      ],
+      "url":[
+         "http://adfoc.us/443015901692"
+      ]
+   },
+   "salience":{
+      "content":{
+         "sentiment":-6
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:18:30 +0000",
+      "domains":[
+         "bit.ly"
+      ],
+      "id":"211492476937187329",
+      "links":[
+         "http://bit.ly/K9sH7Z"
+      ],
+      "source":"<a href=\"http://twitterfeed.com\" rel=\"nofollow\">twitterfeed</a>",
+      "text":"Hollande: 4 French Soldiers, Interpreter Killed In Afghanistan: French President Francois Hollande mourned the d... http://t.co/HMFPsZrz",
+      "user":{
+         "name":"Make Money",
+         "url":"http://buyyourfollowers.com",
+         "description":"Need to look impressive on Twitter?..Get some Twitter Fame ??",
+         "location":"Singapore",
+         "statuses_count":19463,
+         "followers_count":5079,
+         "friends_count":2997,
+         "screen_name":"15ax2",
+         "lang":"en",
+         "listed_count":5,
+         "id":280401532,
+         "id_str":"280401532",
+         "created_at":"Mon, 11 Apr 2011 07:53:36 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"twitterfeed",
+      "author":{
+         "username":"shiokers6",
+         "name":"Shiokers",
+         "id":279389259,
+         "avatar":"http://a0.twimg.com/profile_images/1305181518/images-bird_normal.jpg",
+         "link":"http://twitter.com/shiokers6"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:18:29 +0000",
+      "content":"Hollande: 4 French Soldiers, Interpreter Killed In Afghanistan: French President Francois Hollande mourned the d... http://t.co/45b8Mzpk",
+      "id":"1e1b24ebfa0ba880e07427db256688e2",
+      "link":"http://twitter.com/shiokers6/statuses/211492474525450240"
+   },
+   "klout":{
+      "score":16
+   },
+   "language":{
+      "tag":"en"
+   },
+   "links":{
+      "created_at":[
+         "Sat, 02 Jun 2012 07:54:57 +0000"
+      ],
+      "retweet_count":[
+         149
+      ],
+      "title":[
+         ""
+      ],
+      "url":[
+         "http://adfoc.us/443015901692"
+      ]
+   },
+   "salience":{
+      "content":{
+         "sentiment":-6
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:18:29 +0000",
+      "domains":[
+         "bit.ly"
+      ],
+      "id":"211492474525450240",
+      "links":[
+         "http://bit.ly/K9sH7Z"
+      ],
+      "source":"<a href=\"http://twitterfeed.com\" rel=\"nofollow\">twitterfeed</a>",
+      "text":"Hollande: 4 French Soldiers, Interpreter Killed In Afghanistan: French President Francois Hollande mourned the d... http://t.co/45b8Mzpk",
+      "user":{
+         "name":"Shiokers",
+         "url":"http://128fx.com",
+         "description":"Start a Hedge Fund for as low as $5000 and get back your life and your future.",
+         "location":"Singapore",
+         "statuses_count":9042,
+         "followers_count":6003,
+         "friends_count":2307,
+         "screen_name":"shiokers6",
+         "lang":"en",
+         "listed_count":3,
+         "id":279389259,
+         "id_str":"279389259",
+         "created_at":"Sat, 09 Apr 2011 05:07:49 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"Twitter for BlackBerry\u00AE",
+      "author":{
+         "username":"SyahinFurqan",
+         "name":"\u015Ey\u03B1h\u026A\u0307\u0323n H\u0394H\u0394",
+         "id":340318449,
+         "avatar":"http://a0.twimg.com/profile_images/2291679466/PicMonkey_20Collage_normal.jpg",
+         "link":"http://twitter.com/SyahinFurqan"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:18:36 +0000",
+      "content":"RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...",
+      "id":"1e1b24ec3ccda600e0748b5b7dece968",
+      "link":"http://twitter.com/SyahinFurqan/statuses/211492504003022850"
+   },
+   "klout":{
+      "score":12
+   },
+   "language":{
+      "tag":"tl"
+   },
+   "twitter":{
+      "id":"211492504003022850",
+      "retweet":{
+         "text":"Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna batu bersurat je.",
+         "id":"211492504003022850",
+         "user":{
+            "name":"\u015Ey\u03B1h\u026A\u0307\u0323n H\u0394H\u0394",
+            "url":"http://www.facebook.com/syahin.haha",
+            "description":"Official Product Twitter.com \u2551\u258C\u2502\u2588\u2502\u2551\u258C\u2551\u2502\u2502\u2588\u2551\u258C\u2551\u258CBBM: 288E2E31\u00A9",
+            "location":"Kuala Lumpur, Malaysia",
+            "statuses_count":232,
+            "followers_count":173,
+            "friends_count":318,
+            "screen_name":"SyahinFurqan",
+            "lang":"en",
+            "time_zone":"Kuala Lumpur",
+            "utc_offset":28800,
+            "id":340318449,
+            "id_str":"340318449",
+            "geo_enabled":true,
+            "created_at":"Fri, 22 Jul 2011 14:16:12 +0000"
+         },
+         "source":"<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00AE</a>",
+         "count":32,
+         "created_at":"Sat, 09 Jun 2012 16:18:36 +0000"
+      },
+      "retweeted":{
+         "id":"211491260995870721",
+         "user":{
+            "name":"TAUFIQ AKMAL\u2122",
+            "url":"http://www.facebook.com/taufiqakmal",
+            "description":"Photographer and Photo Editor at OSC Studio's. Always tweet about teenagers, love, habbits, politics and reality life. #ChelseaFC #TwtupJOHOR #JackmanSkeletor",
+            "location":"Cashew RD, Singapore",
+            "statuses_count":4881,
+            "followers_count":3208,
+            "friends_count":2585,
+            "screen_name":"TaufiqAkmals",
+            "lang":"en",
+            "time_zone":"Kuala Lumpur",
+            "utc_offset":28800,
+            "listed_count":1,
+            "id":388636925,
+            "id_str":"388636925",
+            "geo_enabled":true,
+            "created_at":"Tue, 11 Oct 2011 02:44:23 +0000"
+         },
+         "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "created_at":"Sat, 09 Jun 2012 16:13:40 +0000"
+      }
+   }
+},
+{
+   "demographic":{
+      "gender":"male"
+   },
+   "interaction":{
+      "source":"Osfoora for iPhone",
+      "author":{
+         "username":"mirza0529",
+         "name":"Muhd Mirza \uBC00\uC790",
+         "id":255534449,
+         "avatar":"http://a0.twimg.com/profile_images/2159399045/sandeul_1_normal.jpg",
+         "link":"http://twitter.com/mirza0529"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:18:38 +0000",
+      "content":"Samsung S 3... -okay-\n designed for human -ooookayyy-",
+      "id":"1e1b24ec4fe0a300e0740ae815173fa0",
+      "link":"http://twitter.com/mirza0529/statuses/211492510382555137"
+   },
+   "klout":{
+      "score":40
+   },
+   "language":{
+      "tag":"da"
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:18:38 +0000",
+      "id":"211492510382555137",
+      "source":"<a href=\"http://www.osfoora.com\" rel=\"nofollow\">Osfoora for iPhone</a>",
+      "text":"Samsung S 3... -okay-\n designed for human -ooookayyy-",
+      "user":{
+         "name":"Muhd Mirza \uBC00\uC790",
+         "description":"Warning : Will spam about K-pop related .\r\nA Singaporean guy who love K-POP\r\nB1A4 and INFINITE is my bias group.\r\n\u2665\u2661 \uC0B0\uB4E4 \u2661\u2665 8th - 9th August 2011",
+         "location":"Singapore",
+         "statuses_count":44521,
+         "followers_count":173,
+         "friends_count":305,
+         "screen_name":"mirza0529",
+         "lang":"en",
+         "time_zone":"Singapore",
+         "utc_offset":28800,
+         "id":255534449,
+         "id_str":"255534449",
+         "created_at":"Mon, 21 Feb 2011 15:26:29 +0000"
+      }
+   }
+},
+{
+   "demographic":{
+      "gender":"unisex"
+   },
+   "interaction":{
+      "source":"Tweet Button",
+      "author":{
+         "username":"CJ_Wei",
+         "name":"Chiu Jie Wei",
+         "id":199214244,
+         "avatar":"http://a0.twimg.com/profile_images/2161122632/image_normal.jpg",
+         "link":"http://twitter.com/CJ_Wei"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:18:39 +0000",
+      "content":"Can you beat my deck? Start playing R.O.B. iOS: http://t.co/gqO4nUqp Android: https://t.co/lH9qCcpL #rageofbahamut @rageofbahamut",
+      "id":"1e1b24ec5969a980e074b32869904560",
+      "link":"http://twitter.com/CJ_Wei/statuses/211492513238884352"
+   },
+   "klout":{
+      "score":11
+   },
+   "language":{
+      "tag":"en"
+   },
+   "links":{
+      "created_at":[
+         "Mon, 14 May 2012 07:44:50 +0000",
+         "Mon, 14 May 2012 09:42:44 +0000"
+      ],
+      "retweet_count":[
+         136230,
+         11556
+      ],
+      "title":[
+         "Rage of Bahamut for iPhone 3GS, iPhone 4, iPhone 4S, iPod touch (3rd generation), iPod touch (4th generation) and iPad on the iTunes App Store",
+         "Rage of Bahamut - Android Apps on Google Play"
+      ],
+      "url":[
+         "http://itunes.apple.com/us/app/rage-of-bahamut/id506944493?mt=8",
+         "https://play.google.com/store/apps/details?id=com.mobage.ww.a692.Bahamut_Android&hl=en"
+      ]
+   },
+   "salience":{
+      "content":{
+         "sentiment":0
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:18:39 +0000",
+      "domains":[
+         "itunes.apple.com",
+         "play.google.com"
+      ],
+      "id":"211492513238884352",
+      "links":[
+         "http://itunes.apple.com/app/rage-of-bahamut/id506944493?mt=8",
+         "https://play.google.com/store/apps/details?id=com.mobage.ww.a692.Bahamut_Android&hl=en"
+      ],
+      "mentions":[
+         "RageofBahamut"
+      ],
+      "source":"<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+      "text":"Can you beat my deck? Start playing R.O.B. iOS: http://t.co/gqO4nUqp Android: https://t.co/lH9qCcpL #rageofbahamut @rageofbahamut",
+      "user":{
+         "name":"Chiu Jie Wei",
+         "location":"singapore",
+         "statuses_count":38,
+         "followers_count":15,
+         "friends_count":46,
+         "screen_name":"CJ_Wei",
+         "lang":"en",
+         "id":199214244,
+         "id_str":"199214244",
+         "geo_enabled":true,
+         "created_at":"Wed, 06 Oct 2010 09:23:53 +0000"
+      }
+   }
+},
+{
+   "demographic":{
+      "gender":"unisex"
+   },
+   "interaction":{
+      "source":"Twitter for iPhone",
+      "author":{
+         "username":"tanehak",
+         "name":"Lim Boon Hou",
+         "id":435346793,
+         "avatar":"http://a0.twimg.com/profile_images/1691879094/image_normal.jpg",
+         "link":"http://twitter.com/tanehak"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:18:52 +0000",
+      "content":"@ConolophusVanes @tszemin why Aztech??? Kinect needs you... Please send my regards to my booth. Microsoft Kinect booth. :-)",
+      "id":"1e1b24ecd563ae00e07466fb33bbd544",
+      "link":"http://twitter.com/tanehak/statuses/211492571309023232"
+   },
+   "klout":{
+      "score":10
+   },
+   "language":{
+      "tag":"en"
+   },
+   "salience":{
+      "content":{
+         "sentiment":3
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:18:52 +0000",
+      "id":"211492571309023232",
+      "in_reply_to_screen_name":"ConolophusVanes",
+      "in_reply_to_status_id":"211492171478605825",
+      "in_reply_to_user_id":"192265191",
+      "mentions":[
+         "ConolophusVanes",
+         "tszemin"
+      ],
+      "source":"<a href=\"http://twitter.com/#!/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "text":"@ConolophusVanes @tszemin why Aztech??? Kinect needs you... Please send my regards to my booth. Microsoft Kinect booth. :-)",
+      "user":{
+         "name":"Lim Boon Hou",
+         "location":"Singapore",
+         "statuses_count":174,
+         "followers_count":19,
+         "friends_count":81,
+         "screen_name":"tanehak",
+         "lang":"en",
+         "id":435346793,
+         "id_str":"435346793",
+         "created_at":"Mon, 12 Dec 2011 23:33:42 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"Twitter for Android",
+      "author":{
+         "username":"JuniiFatiin",
+         "name":"FATIIN \u2665",
+         "id":525206732,
+         "avatar":"http://a0.twimg.com/profile_images/2291742428/uLPiW3Cw_normal",
+         "link":"http://twitter.com/JuniiFatiin"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:18:53 +0000",
+      "content":"Wanna grab Samsung galaxy S3",
+      "id":"1e1b24ecdeeda480e074d39de4201c88",
+      "link":"http://twitter.com/JuniiFatiin/statuses/211492572596678656"
+   },
+   "klout":{
+      "score":28
+   },
+   "language":{
+      "tag":"tl"
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:18:53 +0000",
+      "id":"211492572596678656",
+      "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "text":"Wanna grab Samsung galaxy S3",
+      "user":{
+         "name":"FATIIN \u2665",
+         "description":"I wasn't born to please anyone :)",
+         "location":"Singapore, Woodlands",
+         "statuses_count":3376,
+         "followers_count":198,
+         "friends_count":347,
+         "screen_name":"JuniiFatiin",
+         "lang":"en",
+         "id":525206732,
+         "id_str":"525206732",
+         "geo_enabled":true,
+         "created_at":"Thu, 15 Mar 2012 09:31:26 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"Twitter for iPhone",
+      "author":{
+         "username":"nurulkaboomz_",
+         "name":"NURULMARDINI \u10E6",
+         "id":162573546,
+         "avatar":"http://a0.twimg.com/profile_images/2214508720/318142_4016833618114_1199554501_33826774_701238444_n-tile_normal.jpg",
+         "link":"http://twitter.com/nurulkaboomz_"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:18:56 +0000",
+      "content":"\"Samsung Galaxy SIII. Designed for humans.\" you don't say.",
+      "id":"1e1b24ecfb89a800e074ec2cd77aad28",
+      "link":"http://twitter.com/nurulkaboomz_/statuses/211492587218010112"
+   },
+   "klout":{
+      "score":35
+   },
+   "language":{
+      "tag":"en"
+   },
+   "salience":{
+      "content":{
+         "sentiment":0
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:18:56 +0000",
+      "id":"211492587218010112",
+      "source":"<a href=\"http://twitter.com/#!/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "text":"\"Samsung Galaxy SIII. Designed for humans.\" you don't say.",
+      "user":{
+         "name":"NURULMARDINI \u10E6",
+         "url":"http://facebook.com/nurul.z.4",
+         "description":"Every 1st \u2661 MuhammadRizqIrshaad's \u2661 010111 \u2764",
+         "location":"Singapore",
+         "statuses_count":13908,
+         "followers_count":226,
+         "friends_count":199,
+         "screen_name":"nurulkaboomz_",
+         "lang":"en",
+         "time_zone":"Alaska",
+         "utc_offset":-32400,
+         "listed_count":2,
+         "id":162573546,
+         "id_str":"162573546",
+         "geo_enabled":true,
+         "created_at":"Sun, 04 Jul 2010 02:30:34 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"Twiterous",
+      "author":{
+         "username":"wildanwardhany",
+         "name":"Wildan Wardhany",
+         "id":319625990,
+         "avatar":"http://a0.twimg.com/profile_images/2280478482/3g6zo7gir2r6u4dfvjt9_normal.jpeg",
+         "link":"http://twitter.com/wildanwardhany"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:18:53 +0000",
+      "content":":D RT @amelia_shan: Pilih blackberry atau strowberry ?? RT @wildanwardhany: @amelia_shan @hels_healey when ???? Harga kado dprhtungkan y :D",
+      "id":"1e1b24ecdeeda480e074c866950050d0",
+      "link":"http://twitter.com/wildanwardhany/statuses/211492572869304320"
+   },
+   "klout":{
+      "score":39
+   },
+   "language":{
+      "tag":"en"
+   },
+   "salience":{
+      "content":{
+         "sentiment":0
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:18:53 +0000",
+      "id":"211492572869304320",
+      "mentions":[
+         "amelia_shan",
+         "wildanwardhany",
+         "hels_healey"
+      ],
+      "source":"<a href=\"http://twiterous.com\" rel=\"nofollow\">Twiterous</a>",
+      "text":":D RT @amelia_shan: Pilih blackberry atau strowberry ?? RT @wildanwardhany: @amelia_shan @hels_healey when ???? Harga kado dprhtungkan y :D",
+      "user":{
+         "name":"Wildan Wardhany",
+         "url":"http://www.wardhanyland.weebly.com",
+         "description":"June 9th / Not smokers / Accounting Student / Heart Analyzer / n #TeamGemini ",
+         "location":"Indonesia - Singapore",
+         "statuses_count":15589,
+         "followers_count":184,
+         "friends_count":127,
+         "screen_name":"wildanwardhany",
+         "lang":"en",
+         "time_zone":"Pacific Time (US & Canada)",
+         "utc_offset":-28800,
+         "id":319625990,
+         "id_str":"319625990",
+         "created_at":"Sat, 18 Jun 2011 13:03:35 +0000"
+      }
+   }
+},
+{
+   "demographic":{
+      "gender":"male"
+   },
+   "interaction":{
+      "source":"Twitter for Android",
+      "author":{
+         "username":"Hafiz_RedFang",
+         "name":"Muhammad Hafiz Hilmi",
+         "id":416431677,
+         "avatar":"http://a0.twimg.com/profile_images/2285910715/20180RWp_normal",
+         "link":"http://twitter.com/Hafiz_RedFang"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:19:06 +0000",
+      "content":"16 games in my hp. Not even 1 I find entertaining.",
+      "id":"1e1b24ed5ae7a900e0743ef2616bff64",
+      "link":"http://twitter.com/Hafiz_RedFang/statuses/211492626829033473"
+   },
+   "klout":{
+      "score":33
+   },
+   "language":{
+      "tag":"en"
+   },
+   "salience":{
+      "content":{
+         "sentiment":3
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:19:06 +0000",
+      "id":"211492626829033473",
+      "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "text":"16 games in my hp. Not even 1 I find entertaining.",
+      "user":{
+         "name":"Muhammad Hafiz Hilmi",
+         "description":"Lets bring the rain.",
+         "location":"Singapore",
+         "statuses_count":8238,
+         "followers_count":90,
+         "friends_count":102,
+         "screen_name":"Hafiz_RedFang",
+         "lang":"en",
+         "time_zone":"Singapore",
+         "utc_offset":28800,
+         "listed_count":1,
+         "id":416431677,
+         "id_str":"416431677",
+         "created_at":"Sat, 19 Nov 2011 17:41:01 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"web",
+      "author":{
+         "username":"TruthMasquerade",
+         "name":"Azreel\u25B2",
+         "id":235575013,
+         "avatar":"http://a0.twimg.com/profile_images/1231621410/156973_474934859478_651229478_5564827_4254383_n_normal.jpg",
+         "link":"http://twitter.com/TruthMasquerade"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:19:18 +0000",
+      "content":"I need my phone back.. HTC, please fix it faster! :(",
+      "id":"1e1b24edcd58a700e07496621f14e8a2",
+      "link":"http://twitter.com/TruthMasquerade/statuses/211492678494466049"
+   },
+   "klout":{
+      "score":19
+   },
+   "language":{
+      "tag":"en"
+   },
+   "salience":{
+      "content":{
+         "sentiment":-5
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:19:18 +0000",
+      "id":"211492678494466049",
+      "source":"web",
+      "text":"I need my phone back.. HTC, please fix it faster! :(",
+      "user":{
+         "name":"Azreel\u25B2",
+         "url":"http://www.facebook.com/profile.php?id=651229478",
+         "description":"When life gives you guitars, you tear the house down with it! \\m/ \r\n\r\nForever Amore~ \u2665",
+         "location":"Singapore",
+         "statuses_count":4550,
+         "followers_count":123,
+         "friends_count":124,
+         "screen_name":"TruthMasquerade",
+         "lang":"en",
+         "time_zone":"Singapore",
+         "utc_offset":28800,
+         "listed_count":2,
+         "id":235575013,
+         "id_str":"235575013",
+         "created_at":"Sat, 08 Jan 2011 15:06:22 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"Twitter for Android",
+      "author":{
+         "username":"FaeDarkFairy",
+         "name":"FTDarkFairy",
+         "id":476741416,
+         "avatar":"http://a0.twimg.com/profile_images/2291448462/f5k347yj4fbe4bmz6v2j_normal.jpeg",
+         "link":"http://twitter.com/FaeDarkFairy"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:19:17 +0000",
+      "content":"\"@SkuLlaeEy: &gt;\\\\\\&lt; RT @imdadaz19: 120609 Hongki FT island Back to korea at Suvarnabhumi airport http://t.co/QVAuAq3a\u201D\"",
+      "id":"1e1b24edc3cfa080e074ceb02fc87db6",
+      "link":"http://twitter.com/FaeDarkFairy/statuses/211492674128191488"
+   },
+   "klout":{
+      "score":26
+   },
+   "language":{
+      "tag":"en"
+   },
+   "salience":{
+      "content":{
+         "sentiment":0
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:19:17 +0000",
+      "domains":[
+         "yfrog.com"
+      ],
+      "id":"211492674128191488",
+      "links":[
+         "http://yfrog.com/kf9ctjkj"
+      ],
+      "mentions":[
+         "SkuLlaeEy",
+         "imdadaz19"
+      ],
+      "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "text":"\"@SkuLlaeEy: &gt;\\\\\\&lt; RT @imdadaz19: 120609 Hongki FT island Back to korea at Suvarnabhumi airport http://t.co/QVAuAq3a\u201D\"",
+      "user":{
+         "name":"FTDarkFairy",
+         "description":"\u2764 FT Island \u273D A Primadonna \u2654 @skullhong biased",
+         "location":"Singapore",
+         "statuses_count":4225,
+         "followers_count":98,
+         "friends_count":331,
+         "screen_name":"FaeDarkFairy",
+         "lang":"en",
+         "time_zone":"Beijing",
+         "utc_offset":28800,
+         "id":476741416,
+         "id_str":"476741416",
+         "geo_enabled":true,
+         "created_at":"Sat, 28 Jan 2012 12:53:08 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"Twidroyd for Android",
+      "author":{
+         "username":"KandarBear",
+         "name":"Sam\u2122",
+         "id":363536580,
+         "avatar":"http://a0.twimg.com/profile_images/2263098866/s3Sq1Wr1_normal",
+         "link":"http://twitter.com/KandarBear"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:19:25 +0000",
+      "content":"RT @JuniiFatiin: Wanna grab Samsung galaxy S3",
+      "id":"1e1b24ee101aa480e074411cd061542e",
+      "link":"http://twitter.com/KandarBear/statuses/211492709108686849"
+   },
+   "klout":{
+      "score":37
+   },
+   "language":{
+      "tag":"tl"
+   },
+   "twitter":{
+      "id":"211492709108686849",
+      "retweet":{
+         "text":"Wanna grab Samsung galaxy S3",
+         "id":"211492709108686849",
+         "user":{
+            "name":"Sam\u2122",
+            "description":"Seventeen :) My other half @bibahbear \u2665 #forever11. Follow me on instagram @KandarBear :)",
+            "location":"San Bernardino",
+            "statuses_count":12573,
+            "followers_count":347,
+            "friends_count":199,
+            "screen_name":"KandarBear",
+            "lang":"en",
+            "time_zone":"Singapore",
+            "utc_offset":28800,
+            "id":363536580,
+            "id_str":"363536580",
+            "geo_enabled":true,
+            "created_at":"Sun, 28 Aug 2011 07:29:50 +0000"
+         },
+         "source":"<a href=\"http://twidroyd.com\" rel=\"nofollow\">Twidroyd for Android</a>",
+         "count":0,
+         "created_at":"Sat, 09 Jun 2012 16:19:25 +0000"
+      },
+      "retweeted":{
+         "id":"211492572596678656",
+         "user":{
+            "name":"FATIIN \u2665",
+            "description":"I wasn't born to please anyone :)",
+            "location":"Singapore, Woodlands",
+            "statuses_count":3374,
+            "followers_count":198,
+            "friends_count":347,
+            "screen_name":"JuniiFatiin",
+            "lang":"en",
+            "id":525206732,
+            "id_str":"525206732",
+            "geo_enabled":true,
+            "created_at":"Thu, 15 Mar 2012 09:31:26 +0000"
+         },
+         "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "created_at":"Sat, 09 Jun 2012 16:18:53 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"Twitter for iPhone",
+      "author":{
+         "username":"snsdhoot",
+         "name":"MyLazyJ\u10E6 ",
+         "id":206773245,
+         "avatar":"http://a0.twimg.com/profile_images/2259801304/image_normal.jpg",
+         "link":"http://twitter.com/snsdhoot"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:19:35 +0000",
+      "content":"@angskk LOL crazy. I then don't want. Later flood.",
+      "id":"1e1b24ee6f78a580e074545d16900836",
+      "link":"http://twitter.com/snsdhoot/statuses/211492750217060353"
+   },
+   "klout":{
+      "score":39
+   },
+   "language":{
+      "tag":"en"
+   },
+   "salience":{
+      "content":{
+         "sentiment":-5
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:19:35 +0000",
+      "id":"211492750217060353",
+      "in_reply_to_screen_name":"angskk",
+      "in_reply_to_status_id":"211490979239301120",
+      "in_reply_to_user_id":"97230402",
+      "mentions":[
+         "angskk"
+      ],
+      "source":"<a href=\"http://twitter.com/#!/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "text":"@angskk LOL crazy. I then don't want. Later flood.",
+      "user":{
+         "name":"MyLazyJ\u10E6 ",
+         "url":"http://snsdhoot.tumblr.com",
+         "description":"SONEs \u2665 SNSD ! \r\n*GorJess Spazzer. YulSic Shipper*\r\nhttp://www.facebook.com/snsdhoot\r\nJailed acc: @Sica_x3 . Personal acc: @CrystalTako",
+         "location":"Singapore",
+         "statuses_count":11520,
+         "followers_count":1939,
+         "friends_count":1235,
+         "screen_name":"snsdhoot",
+         "lang":"en",
+         "time_zone":"Singapore",
+         "utc_offset":28800,
+         "listed_count":17,
+         "id":206773245,
+         "id_str":"206773245",
+         "geo_enabled":true,
+         "created_at":"Sat, 23 Oct 2010 17:48:53 +0000"
+      }
+   }
+},
+{
+   "demographic":{
+      "gender":"male"
+   },
+   "interaction":{
+      "source":"UberSocial for BlackBerry",
+      "author":{
+         "username":"kvinshawn",
+         "name":"Kevin Shawn",
+         "id":83171209,
+         "avatar":"http://a0.twimg.com/profile_images/1493340148/Screen_20110813_231810_normal.jpg",
+         "link":"http://twitter.com/kvinshawn"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:19:37 +0000",
+      "content":"@ynhtlve we need to talk on bbm about that lol",
+      "id":"1e1b24ee828ba280e0745ed48360b344",
+      "link":"http://twitter.com/kvinshawn/statuses/211492756399460352"
+   },
+   "klout":{
+      "score":14
+   },
+   "language":{
+      "tag":"en"
+   },
+   "salience":{
+      "content":{
+         "sentiment":0
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:19:37 +0000",
+      "id":"211492756399460352",
+      "in_reply_to_screen_name":"ynhtlve",
+      "in_reply_to_status_id":"211490870124494849",
+      "in_reply_to_user_id":"32859226",
+      "mentions":[
+         "ynhtlve"
+      ],
+      "source":"<a href=\"http://ubersocial.com\" rel=\"nofollow\">UberSocial for BlackBerry</a>",
+      "text":"@ynhtlve we need to talk on bbm about that lol",
+      "user":{
+         "name":"Kevin Shawn",
+         "location":"Singapore",
+         "statuses_count":1647,
+         "followers_count":136,
+         "friends_count":122,
+         "screen_name":"kvinshawn",
+         "lang":"en",
+         "time_zone":"Kuala Lumpur",
+         "utc_offset":28800,
+         "listed_count":2,
+         "id":83171209,
+         "id_str":"83171209",
+         "created_at":"Sat, 17 Oct 2009 16:49:30 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"Instagram",
+      "author":{
+         "username":"An8aRazali",
+         "name":"\u263C\u266B\u263A\u221E\u2640\u2665\u262E",
+         "id":35718103,
+         "avatar":"http://a0.twimg.com/profile_images/2246089857/anna_normal.jpg",
+         "link":"http://twitter.com/An8aRazali"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:19:25 +0000",
+      "content":"Anna Sui &lt;3 http://t.co/LP56jpIG",
+      "id":"1e1b24ee101aa480e074cb2d03b22a02",
+      "link":"http://twitter.com/An8aRazali/statuses/211492708773150720"
+   },
+   "klout":{
+      "score":27
+   },
+   "language":{
+      "tag":"et"
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:19:25 +0000",
+      "domains":[
+         "instagr.am"
+      ],
+      "id":"211492708773150720",
+      "links":[
+         "http://instagr.am/p/LqNmrBHJpp/"
+      ],
+      "source":"<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+      "text":"Anna Sui &lt;3 http://t.co/LP56jpIG",
+      "user":{
+         "name":"\u263C\u266B\u263A\u221E\u2640\u2665\u262E",
+         "url":"http://stfuyoucunt.tumblr.com",
+         "description":"Everything has beauty, but not everyone sees it.",
+         "location":"Singapore",
+         "statuses_count":22350,
+         "followers_count":385,
+         "friends_count":244,
+         "screen_name":"An8aRazali",
+         "lang":"en",
+         "time_zone":"Singapore",
+         "utc_offset":28800,
+         "id":35718103,
+         "id_str":"35718103",
+         "geo_enabled":true,
+         "created_at":"Mon, 27 Apr 2009 11:12:45 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"web",
+      "author":{
+         "username":"SyuraHisham",
+         "name":"2712 \u2122",
+         "id":523414725,
+         "avatar":"http://a0.twimg.com/profile_images/2286957461/wycqn05xkoxtkgg0j9om_normal.jpeg",
+         "link":"http://twitter.com/SyuraHisham"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:19:48 +0000",
+      "content":"RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...",
+      "id":"1e1b24eeeb72aa00e0742de997cfb110",
+      "link":"http://twitter.com/SyuraHisham/statuses/211492802582937600"
+   },
+   "klout":{
+      "score":36
+   },
+   "language":{
+      "tag":"tl"
+   },
+   "twitter":{
+      "id":"211492802582937600",
+      "retweet":{
+         "text":"Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna batu bersurat je.",
+         "id":"211492802582937600",
+         "user":{
+            "name":"2712 \u2122",
+            "url":"https://www.facebook.com/dsyuraa.hisham",
+            "description":"I'm Syura Hisham\r\n8teen years old\r\nJohorean :)\r\nHati sepenuhnya milik #MuhdKhairulSyazwanIsmail",
+            "statuses_count":3666,
+            "followers_count":221,
+            "friends_count":253,
+            "screen_name":"SyuraHisham",
+            "lang":"en",
+            "time_zone":"Kuala Lumpur",
+            "utc_offset":28800,
+            "id":523414725,
+            "id_str":"523414725",
+            "geo_enabled":true,
+            "created_at":"Tue, 13 Mar 2012 16:22:19 +0000"
+         },
+         "source":"web",
+         "count":36,
+         "created_at":"Sat, 09 Jun 2012 16:19:48 +0000"
+      },
+      "retweeted":{
+         "id":"211491260995870721",
+         "user":{
+            "name":"TAUFIQ AKMAL\u2122",
+            "url":"http://www.facebook.com/taufiqakmal",
+            "description":"Photographer and Photo Editor at OSC Studio's. Always tweet about teenagers, love, habbits, politics and reality life. #ChelseaFC #TwtupJOHOR #JackmanSkeletor",
+            "location":"Cashew RD, Singapore",
+            "statuses_count":4883,
+            "followers_count":3209,
+            "friends_count":2585,
+            "screen_name":"TaufiqAkmals",
+            "lang":"en",
+            "time_zone":"Kuala Lumpur",
+            "utc_offset":28800,
+            "listed_count":1,
+            "id":388636925,
+            "id_str":"388636925",
+            "geo_enabled":true,
+            "created_at":"Tue, 11 Oct 2011 02:44:23 +0000"
+         },
+         "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "created_at":"Sat, 09 Jun 2012 16:13:40 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"TweetCaster for Android",
+      "author":{
+         "username":"syedirritsTTM",
+         "name":"$\u00A5\u20ACd \u00A5u\u00A7r@",
+         "id":383777890,
+         "avatar":"http://a0.twimg.com/profile_images/1732302795/315905_261709220539406_100001009916853_774516_1684489355_n_normal.jpg",
+         "link":"http://twitter.com/syedirritsTTM"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:19:56 +0000",
+      "content":"The mrt is filled with the smell of alcoholic drinks. Me no like.",
+      "id":"1e1b24ef37bdae00e0747a4f6918359c",
+      "link":"http://twitter.com/syedirritsTTM/statuses/211492839052414976"
+   },
+   "klout":{
+      "score":21
+   },
+   "language":{
+      "tag":"en"
+   },
+   "salience":{
+      "content":{
+         "sentiment":0
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:19:56 +0000",
+      "id":"211492839052414976",
+      "source":"<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+      "text":"The mrt is filled with the smell of alcoholic drinks. Me no like.",
+      "user":{
+         "name":"$\u00A5\u20ACd \u00A5u\u00A7r@",
+         "description":"power comes when there's a need, not a want...",
+         "location":"singapore",
+         "statuses_count":4787,
+         "followers_count":132,
+         "friends_count":208,
+         "screen_name":"syedirritsTTM",
+         "lang":"en",
+         "time_zone":"Singapore",
+         "utc_offset":28800,
+         "id":383777890,
+         "id_str":"383777890",
+         "created_at":"Sun, 02 Oct 2011 14:08:16 +0000"
+      }
+   }
+},
+{
+   "interaction":{
+      "source":"Twitter for Android",
+      "author":{
+         "username":"Iyansfl",
+         "name":"Le' Izziyano \u2665",
+         "id":504429132,
+         "avatar":"http://a0.twimg.com/profile_images/2283526075/s6fud7sulh5y2o9r478a_normal.jpeg",
+         "link":"http://twitter.com/Iyansfl"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:19:57 +0000",
+      "content":"RT @TaufiqAkmals: Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna ...",
+      "id":"1e1b24ef4147a480e0747a2e17643096",
+      "link":"http://twitter.com/Iyansfl/statuses/211492840809832448"
+   },
+   "klout":{
+      "score":38
+   },
+   "language":{
+      "tag":"tl"
+   },
+   "twitter":{
+      "id":"211492840809832448",
+      "retweet":{
+         "text":"Maxis penipu. Dulu dia janji youth club sms 1 sen je. Tapi ni dah naik sampai 2 sen pahal pulak. Elak lepasni sms guna batu bersurat je.",
+         "id":"211492840809832448",
+         "user":{
+            "name":"Le' Izziyano \u2665",
+            "description":"#TEAMPMR2012",
+            "location":"Kajang",
+            "statuses_count":4113,
+            "followers_count":424,
+            "friends_count":243,
+            "screen_name":"Iyansfl",
+            "lang":"en",
+            "time_zone":"Perth",
+            "utc_offset":28800,
+            "id":504429132,
+            "id_str":"504429132",
+            "geo_enabled":true,
+            "created_at":"Sun, 26 Feb 2012 12:16:54 +0000"
+         },
+         "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "count":37,
+         "created_at":"Sat, 09 Jun 2012 16:19:57 +0000"
+      },
+      "retweeted":{
+         "id":"211491260995870721",
+         "user":{
+            "name":"TAUFIQ AKMAL\u2122",
+            "url":"http://www.facebook.com/taufiqakmal",
+            "description":"Photographer and Photo Editor at OSC Studio's. Always tweet about teenagers, love, habbits, politics and reality life. #ChelseaFC #TwtupJOHOR #JackmanSkeletor",
+            "location":"Cashew RD, Singapore",
+            "statuses_count":4883,
+            "followers_count":3209,
+            "friends_count":2585,
+            "screen_name":"TaufiqAkmals",
+            "lang":"en",
+            "time_zone":"Kuala Lumpur",
+            "utc_offset":28800,
+            "listed_count":1,
+            "id":388636925,
+            "id_str":"388636925",
+            "geo_enabled":true,
+            "created_at":"Tue, 11 Oct 2011 02:44:23 +0000"
+         },
+         "source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "created_at":"Sat, 09 Jun 2012 16:13:40 +0000"
+      }
+   }
+},
+{
+   "demographic":{
+      "gender":"female"
+   },
+   "interaction":{
+      "source":"Echofon",
+      "author":{
+         "username":"ceemj_",
+         "name":"Crystal Ee Man Jing",
+         "id":127180179,
+         "avatar":"http://a0.twimg.com/profile_images/2201479683/ceemj__normal.jpg",
+         "link":"http://twitter.com/ceemj_"
+      },
+      "type":"twitter",
+      "created_at":"Sat, 09 Jun 2012 16:20:09 +0000",
+      "content":"@gwx_ wah... Left me lonely lonely take iphone 3gs so beiai. Sigh sigh. Uhh idk ley you going both tuitions or?",
+      "id":"1e1b24efb3b8a280e07469824ad8bd82",
+      "link":"http://twitter.com/ceemj_/statuses/211492893028913153"
+   },
+   "klout":{
+      "score":37
+   },
+   "language":{
+      "tag":"en"
+   },
+   "salience":{
+      "content":{
+         "sentiment":-6
+      }
+   },
+   "twitter":{
+      "created_at":"Sat, 09 Jun 2012 16:20:09 +0000",
+      "id":"211492893028913153",
+      "in_reply_to_screen_name":"gwx_",
+      "in_reply_to_status_id":"211491994286047233",
+      "in_reply_to_user_id":"79985046",
+      "mentions":[
+         "gwx_"
+      ],
+      "source":"<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+      "text":"@gwx_ wah... Left me lonely lonely take iphone 3gs so beiai. Sigh sigh. Uhh idk ley you going both tuitions or?",
+      "user":{
+         "name":"Crystal Ee Man Jing",
+         "url":"http://www.crystal-phintasticferbulous-perry.blogspot.com",
+         "description":"Want a glass of DIHYDROGENOXIDE? ;D\nWeiXin Clara & Charlene #rbbc,#rbbccf\nFuck all the bias people in the world. \nWanna know more? Hit the follow button ;)",
+         "location":"Singapore",
+         "statuses_count":47683,
+         "followers_count":337,
+         "friends_count":296,
+         "screen_name":"ceemj_",
+         "lang":"en",
+         "time_zone":"Singapore",
+         "utc_offset":28800,
+         "id":127180179,
+         "id_str":"127180179",
+         "geo_enabled":true,
+         "created_at":"Sun, 28 Mar 2010 09:55:47 +0000"
+      }
+   }
+},
+{"demographic":{
+	"gender":"female"
+	},
+	"interaction":{
+	"source":"Twitter for Android",
+	"author":{
+	"username":"itisiylia",
+	"name":"illyeah monica",
+	"id":366476611,
+	"avatar":"http://a0.twimg.com/profile_images/1810056018/me_again_normal.jpg",
+	"link":"http://twitter.com/itisiylia"
+	},
+	"type":"twitter",
+	"created_at":"Tue, 22 May 2012 14:45:12 +0000",
+	"content":"Ni kalau tk kuat semangat boleh nangis sak tengok orang P.O.P.",
+	"id":"1e1a41cbc1ecac00e074cbbf644f8aea",
+	"link":"http://twitter.com/itisiylia/statuses/204946015848103937",
+	"geo":{
+	"latitude":1.371864100000000,
+	"longitude":103.7222327000000
+	}
+	},
+	"klout":{
+	"score":12
+	},
+	"language":{
+	"tag":"hu"
+	},
+	"twitter":{
+	"created_at":"Tue, 22 May 2012 14:45:12 +0000",
+	"geo":{
+	"latitude":1.371864100000000,
+	"longitude":103.7222327000000
+	},
+	"id":"204946015848103937",
+	"place":{
+	"id":"96cff30292d71c41",
+	"url":"http://api.twitter.com/1/geo/id/96cff30292d71c41.json",
+	"place_type":"admin",
+	"country":"Malaysia",
+	"country_code":"MY",
+	"full_name":"Johor Bahru, Johore",
+	"name":"Johor Bahru"
+	},
+	"source":"<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+	"text":"Ni kalau tk kuat semangat boleh nangis sak tengok orang P.O.P.",
+	"user":{
+	"name":"illyeah monica",
+	"description":"im just a typical lazy muthafucking ass.",
+	"location":"Singapore",
+	"statuses_count":1467,
+	"followers_count":62,
+	"friends_count":96,
+	"screen_name":"itisiylia",
+	"lang":"en",
+	"time_zone":"Singapore",
+	"utc_offset":28800,
+	"id":366476611,
+	"id_str":"366476611",
+	"geo_enabled":true,
+	"created_at":"Fri, 02 Sep 2011 07:33:11 +0000"
+	}
+	}
+	},
+{"interaction":{
+	"source":"Twitter for iPhone",
+	"author":{
+	"username":"AskSirStamford",
+	"name":"Stamford Raffles",
+	"id":198013980,
+	"avatar":"http://a0.twimg.com/profile_images/1209919391/image_normal.jpg",
+	"link":"http://twitter.com/AskSirStamford"
+	},
+	"type":"twitter",
+	"created_at":"Tue, 22 May 2012 14:45:18 +0000",
+	"content":"Farewell Mr Drogba, ohhh, careful, don't trip on the step, ohh your on the floor like a sack of spuds #getup",
+	"id":"1e1a41cbfb25a300e074c6914469444e",
+	"link":"http://twitter.com/AskSirStamford/statuses/204946039743066112",
+	"geo":{
+	"latitude":3.154560610000000,
+	"longitude":101.7149661600000
+	}
+	},
+	"klout":{
+	"score":44
+	},
+	"language":{
+	"tag":"en"
+	},
+	"salience":{
+	"content":{
+	"sentiment":0
+	}
+	},
+	"trends":{
+	"type":["weekly"],
+	"content":["drogba"],
+	"source":["twitter"]
+	},
+	"twitter":{
+	"created_at":"Tue, 22 May 2012 14:45:18 +0000",
+	"geo":{
+	"latitude":3.154560610000000,
+	"longitude":101.7149661600000
+	},
+	"id":"204946039743066112",
+	"place":{
+	"id":"7b02fbddf4d9f2c6",
+	"url":"http://api.twitter.com/1/geo/id/7b02fbddf4d9f2c6.json",
+	"place_type":"city",
+	"country":"Malaysia",
+	"country_code":"MY",
+	"full_name":"Bandar Kuala Lumpur, Kuala Lumpur",
+	"name":"Bandar Kuala Lumpur"
+	},
+	"source":"<a href=\"http://twitter.com/#!/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+	"text":"Farewell Mr Drogba, ohhh, careful, don't trip on the step, ohh your on the floor like a sack of spuds #getup",
+	"user":{
+	"name":"Stamford Raffles",
+	"description":"Singapore's first expat, well not really, but tweeting when dead for 185 years is an achievement",
+	"location":"Singapore",
+	"statuses_count":22242,
+	"followers_count":418,
+	"friends_count":406,
+	"screen_name":"AskSirStamford",
+	"lang":"en",
+	"time_zone":"Singapore",
+	"utc_offset":28800,
+	"listed_count":20,
+	"id":198013980,
+	"id_str":"198013980",
+	"geo_enabled":true,
+	"created_at":"Sun, 03 Oct 2010 03:07:50 +0000"
+	}
+	}
+	}
+]}
